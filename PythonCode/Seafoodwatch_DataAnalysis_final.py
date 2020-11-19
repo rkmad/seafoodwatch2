@@ -11,6 +11,7 @@ from random import sample
 from collections import Counter
 from functools import reduce
 from matplotlib.lines import Line2D
+from matplotlib.pyplot import axvline, text
 
 
 ################  DATA IMPORT, CLEANING AND MUNGING  ####################
@@ -53,13 +54,12 @@ with open('groupOverview_l.json') as f:
         TML = multReplaceStr(data[ind][3])
         TypeNames_.append([x.strip(' ') for x in (TML[i][0] for i in range(len(TML)))])
         TypeNames = pd.Series(TypeNames_)
-        Method_.append([x.strip(' ') for x in (TML[i][1] for i in range(len(TML)))])
+        Method_.append([x.upper().strip(' ').replace('JIGS', 'JIG').replace('TRAPS (UNSPECIFIED)', 'TRAPS') for x in (TML[i][1] for i in range(len(TML)))]) # method strings to uppercase as there are some case differences between same methods. Also fix some plural terms.
         Method = pd.Series(Method_)
         Location_.append([x.strip(' ') for x in (TML[i][2] for i in range(len(TML)))])
         Location = pd.Series(Location_)
         OverallScore_.append([i.replace('Overall Score: ', '') for i in data[ind][4]])
         OverallScore = pd.Series(OverallScore_)
-
 
 # len(list(flatten(BGA))) #1697
 # len(list(flatten(TypeNames))) #2341
@@ -139,6 +139,7 @@ simple_df.to_csv('simple_df.csv')
 # len(list(flatten(Location))) #2341
 # len(list(flatten(OverallScore))) #1687
 
+
 detail_df=[]
 for i in range(len(group)):
     df_ = pd.concat([pd.Series(np.repeat(group[i], [len(Location[i])])), pd.Series(BGA[i]), pd.Series(TypeNames[i]), pd.Series(Method[i]), pd.Series(Location[i]), pd.Series(OverallScore[i])], axis=1, keys=['group', 'recommend', 'typeNames', 'method', 'location', 'overallScore' ] )
@@ -156,6 +157,7 @@ detail_df.to_csv('detail_df.csv')
 
 
 
+
 ################  EDA FOR FREQUENCY DISTRIBUTIONS  ####################
 ################  EDA FOR FREQUENCY DISTRIBUTIONS  ####################
 ################  EDA FOR FREQUENCY DISTRIBUTIONS  ####################
@@ -163,6 +165,7 @@ detail_df.to_csv('detail_df.csv')
 # frequency distributions 
 
 Counter(detail_df['recommend'])
+detail_df['recommend'].value_counts()
 # Counter({'BEST CHOICE': 305, 'GOOD ALTERNATIVE': 769, nan: 644, 'AVOID': 623})
 # Counter(detail_df['method'])
 # Counter(detail_df['location'])
@@ -179,6 +182,21 @@ simple_df['meanGroupScore'].hist(bins=100)
 ################### CREATE VISUALIZATIONS ####################
 ################### CREATE VISUALIZATIONS ####################
 
+
+#########  SET FONT SIZES AND PARAMS FOR GRAPHS  #########
+size=15
+params = {'legend.fontsize': 'large',
+          'figure.figsize': (20,8),
+          'axes.labelsize': size*1.0,
+          'axes.titlesize': size*2,
+          'axes.labelsize': size*1.1,
+          'xtick.labelsize': size*1.05,
+          'ytick.labelsize': size*1.0,
+          'axes.titlepad': 25,
+          'figure.titlesize': size*2,
+          'legend.fontsize': size}
+plt.rcParams.update(params)
+sns.set_style("whitegrid")
 
 
 ## Plotting mean overall scores by groups
@@ -200,29 +218,32 @@ detail_df.groupby('recommend').agg({'overallScore':'mean'})
 ## Distribution of recommendations box plot
 
 plt.figure(figsize=(10, 7.5))
+axvline(x=np.mean([float(x) for x in OverallScore_c]), color='plum',zorder=0)
 plt.title('Distribution of all Scores by Recommendation')
 my_pal = {"BEST CHOICE": "g", "GOOD ALTERNATIVE": "orange", "AVOID":"r"}
-p1 = sns.boxplot(y= detail_df.loc[(detail_df['overallScore'] != 10), 'recommend'],   x=detail_df.loc[(detail_df['overallScore'] != 10), 'overallScore'], data=detail_df, palette=my_pal)
+p1 = sns.boxplot(y= detail_df.loc[(detail_df['overallScore'] != 10), 'recommend'],   x=detail_df.loc[(detail_df['overallScore'] != 10), 'overallScore'], data=detail_df, palette=my_pal, zorder=10)
 plt.xlabel('Score')
 plt.ylabel('')
 p1.text(-2.2, 0+0.2, "305 Sources", horizontalalignment='left', size='large', color='black', weight='semibold')
 p1.text(-2.2, 1+0.2, "769 Sources", horizontalalignment='left', size='large', color='black', weight='semibold')
 p1.text(-2.2, 2+0.2, "623 Sources", horizontalalignment='left', size='large', color='black', weight='semibold')
-
+p1.text(2.95, 2.73, "Mean", horizontalalignment='left', size=12, color='plum', weight='semibold', rotation='vertical')
 
 
 ## Distribution of recommendations violin plot, without or with swarm overlay
 
 plt.figure(figsize=(10, 7.5))
+axvline(x=np.mean([float(x) for x in OverallScore_c]), color='plum',zorder=0)
 plt.title('Distribution of all Scores by Recommendation Category')
 my_pal = {"BEST CHOICE": "g", "GOOD ALTERNATIVE": "orange", "AVOID":"r"}
-p1 = sns.violinplot(y= detail_df.loc[(detail_df['overallScore'] != 10), 'recommend'],   x=detail_df.loc[(detail_df['overallScore'] != 10), 'overallScore'], data=detail_df, palette=my_pal, saturation =0.7)
-p1 = sns.swarmplot(y= detail_df.loc[(detail_df['overallScore'] != 10), 'recommend'],   x=detail_df.loc[(detail_df['overallScore'] != 10), 'overallScore'], data=detail_df, color='gray', edgecolor='black')
+p1 = sns.violinplot(y= detail_df.loc[(detail_df['overallScore'] != 10), 'recommend'],   x=detail_df.loc[(detail_df['overallScore'] != 10), 'overallScore'], data=detail_df, palette=my_pal, saturation =0.7, zorder=5)
+p1 = sns.swarmplot(y= detail_df.loc[(detail_df['overallScore'] != 10), 'recommend'],   x=detail_df.loc[(detail_df['overallScore'] != 10), 'overallScore'], data=detail_df, color='gray', edgecolor='black', zorder=10)
 plt.xlabel('Score')
 plt.ylabel('')
 p1.text(-3.1, 0+0.2, "305 Sources", horizontalalignment='left', size=15, color='black')
 p1.text(-3.1, 1+0.2, "769 Sources", horizontalalignment='left', size=15, color='black')
 p1.text(-3.1, 2+0.2, "623 Sources", horizontalalignment='left', size=15, color='black')
+p1.text(2.95, 2.73, "Mean", horizontalalignment='left', size=12, color='plum', weight='semibold', rotation='vertical')
 
 
 # based on distribution, want to know what sources have scores higher than 6:
@@ -240,7 +261,7 @@ scorehigher6count_df.to_csv('scorehigher6count_df.csv')
 
 ## Recommendations pie chart
 # Counter({'BEST CHOICE': 305, 'GOOD ALTERNATIVE': 769, nan: 644, 'AVOID': 623})
-recs= pd.DataFrame([pd.Series({'BEST CHOICE': 305, 'GOOD ALTERNATIVE': 769, 'AVOID': 623, 'ECO-CERTIFICATIONS': 644})]).T
+recs= pd.DataFrame([pd.Series({'BEST CHOICE': 305, 'GOOD ALTERNATIVE': 769, 'AVOID': 623, 'ECO-CERTIFIED': 644})]).T
 recs.columns= ['count']
 recs.plot.pie(y= 'count', figsize=(10,10), autopct='%1.0f%%', legend=False, colors = ['green', 'orange', 'red', 'skyblue'])
 plt.show()
@@ -250,23 +271,6 @@ plt.show()
 # matplotlib plotting, pandas plotting used in pie plot above didnt work as didnt allow groups labeling
 plt.pie(simple_df['numTotal'], labels=simple_df['group'], autopct='%1.0f%%', radius=8)
 
-
-
-
-#########  SET FONT SIZES FOR GRAPHS  #########
-size=15
-params = {'legend.fontsize': 'large',
-          'figure.figsize': (20,8),
-          'axes.labelsize': size*1.0,
-          'axes.titlesize': size*2,
-          'axes.labelsize': size*1.1,
-          'xtick.labelsize': size*1.05,
-          'ytick.labelsize': size*1.0,
-          'axes.titlepad': 25,
-          'figure.titlesize': size*2,
-          'legend.fontsize': size}
-plt.rcParams.update(params)
-sns.set_style("whitegrid")
 
 
 
@@ -295,34 +299,65 @@ high10_df = pd.concat(high10_df, axis=0)
 
 highlow_df= pd.concat([high10_df, low10_df], axis=0).sort_values('overallScore', ascending = False)
 
-plt.figure(figsize=(15, 7.5))
-plt.title('Distribution of Top 10 and Bottom 10 Scoring Groups')
-p1 = sns.boxplot(y= highlow_df.loc[(highlow_df['overallScore'] != 10) ,'group'],   x= highlow_df.loc[(highlow_df['overallScore'] != 10) ,'overallScore'], data=highlow_df)
-plt.xlabel('Score')
-plt.ylabel('')
-
-
-# boxen plot version
-sns.set_style("whitegrid")
-plt.figure(figsize=(15, 10))
-plt.title('Distribution of Top 10 and Bottom 10 Scoring Groups')
-p1 = sns.boxenplot(y= highlow_df.loc[(highlow_df['overallScore'] != 10) ,'group'],   x= highlow_df.loc[(highlow_df['overallScore'] != 10) ,'overallScore'], data=highlow_df)
-plt.xlabel('Score')
-plt.ylabel('')
-
-
-# same plot as above but including the Eco certifications (arbitrary score = 10)
+# make custom color palette
+r_pal = sns.color_palette("Reds",15)
+g_pal = sns.color_palette("Greens_r",15)
+pal=g_pal.as_hex()[:10]+r_pal.as_hex()[:10]
 
 plt.figure(figsize=(15, 7.5))
-plt.title('Distribution of Top 10 and Bottom 10 Scoring Groups (Including Eco-Certifications)')
-p1 = sns.boxplot(y= highlow_df['group'],   x= highlow_df['overallScore'], data=highlow_df)
+plt.title('Distribution of Top 10 and Bottom 10 Scoring Groups')
+p1 = sns.boxplot(y= highlow_df.loc[(highlow_df['overallScore'] != 10) ,'group'], x= highlow_df.loc[(highlow_df['overallScore'] != 10) ,'overallScore'], data=highlow_df, zorder=10, palette=pal)
 plt.xlabel('Score')
 plt.ylabel('')
+axvline(x=np.mean(meanByGroup), color='plum',zorder=0)
+p1.text(3.24, 21, "Mean", horizontalalignment='left', size=12, color='plum', weight='semibold', rotation='vertical')
+plt.show()
 
+
+# boxplot with swarm
+
+plt.figure(figsize=(15, 7.5))
+plt.title('Distribution of Top 10 and Bottom 10 Scoring Groups')
+p1 = sns.boxplot(y= highlow_df.loc[(highlow_df['overallScore'] != 10) ,'group'], x= highlow_df.loc[(highlow_df['overallScore'] != 10) ,'overallScore'], data=highlow_df, zorder=5, palette=pal)
+p1 = sns.swarmplot(y= highlow_df.loc[(highlow_df['overallScore'] != 10) ,'group'], x= highlow_df.loc[(highlow_df['overallScore'] != 10) ,'overallScore'], data=highlow_df, zorder=10, color='gray', edgecolor='black')
+plt.xlabel('Score')
+plt.ylabel('')
+axvline(x=np.mean(meanByGroup), color='plum',zorder=0)
+p1.text(3.24, 21, "Mean", horizontalalignment='left', size=12, color='plum', weight='semibold', rotation='vertical')
+plt.show()
+
+
+
+
+##### further investigate the top 10 and bottom 10 scoring groups. check into methods and locations for each  ######
+##### further investigate the top 10 and bottom 10 scoring groups. check into methods and locations for each  ######
+
+
+highlow_notECO_df = highlow_df.loc[(highlow_df['overallScore'] != 10) ]
+
+highlow_df['method'].value_counts()
+highlow_df['location'].value_counts()
+
+# find most common location for each method:
+most_common_location = highlow_notECO_df.groupby(['method'])['location'].agg(lambda x: x.value_counts().index[0]).reset_index()
+
+highest_lowest_location_counts_ByMethod = highlow_notECO_df.groupby(['group','method','location']).agg(loc_count=('location','count'))
+# save to csv
+highest_lowest_location_counts_ByMethod.to_csv('highest_lowest_location_counts_ByMethod.csv')
+
+# location counts total
+total_locations_per_method = highlow_notECO_df.groupby(['method']).agg({'location':'count'})
+# location with max counts by method
+group_highest_loc_count = highest_lowest_location_counts_ByMethod.groupby(['group']).agg({'loc_count':'max'})
+
+
+
+
+
+########################
+########################
 
 ## Scores by Production Method
-
-sortS_detail_df= detail_df.sort_values('overallScore', ascending = False)
 
 # function to create list of colors according to recommend column
 def pltcolor(lst):
@@ -339,12 +374,6 @@ def pltcolor(lst):
     return cols
 cols = pltcolor(sortS_detail_df['recommend'])
 
-plt.figure(figsize=(15, 25))
-plt.xlabel('Score')
-#plt.ylabel('Probability')
-plt.title('Score by Production Method')
-plt.scatter(sortS_detail_df['overallScore'], sortS_detail_df['method'], c=cols)
-
 
 ## Scores by Production method without Eco-cert.
 
@@ -352,7 +381,7 @@ plt.scatter(sortS_detail_df['overallScore'], sortS_detail_df['method'], c=cols)
 sortS_detail_df= detail_df.loc[(detail_df['overallScore'] != 10)]
 sortSmean_detail_df= sortS_detail_df.iloc[(sortS_detail_df.groupby('method')['overallScore'].transform('mean')).argsort()]
 
-# get list of 76 methods ordered above by mean overallScore
+# get list of 69 methods ordered above by mean overallScore
 grp=sortSmean_detail_df.groupby('method')
 method_grp=[]
 for key, values in grp:
@@ -364,44 +393,78 @@ cols = pltcolor(sortSmean_detail_df[ 'recommend'])
 plt.figure(figsize=(15, 25))
 plt.xlabel('Score')
 plt.title('Scores by Production Method')
-plt.scatter(sortSmean_detail_df['overallScore'], sortSmean_detail_df['method'], c=cols )
-plt.scatter(sortSmean_detail_df.groupby('method').agg({'overallScore':'mean'}), method_grp, c='k', marker='x', label='Mean',s=40)
+p1=plt.scatter(sortSmean_detail_df['overallScore'], sortSmean_detail_df['method'], c=cols, alpha=1/3, zorder=5)
+p1=plt.scatter(sortSmean_detail_df.groupby('method').agg({'overallScore':'mean'}), method_grp, c='k', marker='x', label='Mean',s=40, zorder=10)
 legend_elements = [Line2D([0], [0], marker='o', color='w', label='BEST CHOICE', markerfacecolor='g', markersize=9),
                    Line2D([0], [0], marker='o', color='w', label='GOOD ALTERNATIVE', markerfacecolor='orange', markersize=9),
                    Line2D([0], [0], marker='o', color='w', label='AVOID', markerfacecolor='r', markersize=9),
-                   Line2D([0], [0], marker='x', color='k', label='Mean Score', linewidth=0, markersize=7)]
-plt.legend(handles= legend_elements, loc= 'lower right')
+                   Line2D([0], [0], marker='x', color='k', label='Method Mean Score', linewidth=0, markersize=7)]
+p1=plt.legend(handles= legend_elements, loc= 'lower right')
+axvline(x=np.mean([float(x) for x in OverallScore_c]), color='gray',zorder=0)
+p1=text(2.92, -3.15, "Mean", horizontalalignment='left', size=12, color='gray', weight='semibold', rotation='vertical')
 
 
+##### further expore methods by looking at most common location for each method #####
+##### further expore methods by looking at most common location for each method #####
 
+sortSmean_detail_df['location'].value_counts() # overall, most common location is 'Worldwide', not really helpful
+# find most common location for each method:
+most_common_location = sortSmean_detail_df.groupby(['method'])['location'].agg(lambda x: x.value_counts().index[0]).reset_index()
 
-## Scores by Groups scatter strip plot
+location_counts_ByMethod = sortSmean_detail_df.groupby(['method','location']).agg(loc_count=('location','count'))
+# save to csv
+location_counts_ByMethod.to_csv('location_counts_ByMethod.csv')
+# location counts total
+total_locations_per_method = sortSmean_detail_df.groupby(['method']).agg({'location':'count'})
+# location with max counts by method
+max_location_ByMethod = location_counts_ByMethod.groupby(['method']).agg({'loc_count':'max'})
 
-sort_detail_df= detail_df.sort_values('group', ascending = False)
+# make df of top 10 and bottom 10 methods, merge with most common locations
+bottom10_methods = pd.Series(sortSmean_detail_df['method'].unique()[:10])[::-1]
+top10_methods = pd.Series(sortSmean_detail_df['method'].unique()[-10:])[::-1]
+topbottom10_methods = pd.concat([top10_methods, bottom10_methods], axis=0)
+topbottom10_methods = pd.DataFrame(topbottom10_methods  , columns=['method'])
+topbottom10_methods.reset_index(inplace=True)
+topbottom10_methods['index']= list(range(1,11)) + list(range(60,70))
 
-# create list of colors according to recommend column
-cols = pltcolor(sort_detail_df['recommend'])
+# complicated merge together of method, location and location counts:
+most_common_location_byMethod_df = most_common_location.merge(topbottom10_methods, on='method', sort=False).sort_values('index').reset_index(drop=True)
+most_common_location_byMethod_df= most_common_location_byMethod_df.merge(max_location_ByMethod, on='method', sort=False, suffixes=('', 's_count')).sort_values('index').reset_index(drop=True)[['method', 'index', 'location', 'loc_count' ]]
+most_common_location_byMethod_df = most_common_location_byMethod_df.rename(columns={'index': 'rank', 'location': 'most_common_location'})
+most_common_location_byMethod_df = most_common_location_byMethod_df.merge(total_locations_per_method, on='method', sort=False)
 
-sns.set_style("whitegrid")
-plt.figure(figsize=(15, 25))
-plt.xlabel('Score')
-#plt.ylabel('Probability')
-plt.title('Scores by Group')
-plt.scatter(sort_detail_df['overallScore'], sort_detail_df['group'], c=cols)
+#save resulting table
+most_common_location_byMethod_df.to_csv('most_common_location_byMethod_df.csv')
 
+####################################################
+####################################################
 
-## Scores by groups with ECO-Cert. stacked bar plot:
+## Scores by groups with ECO-Cert. stacked bar plot, alphabetical:
 
 columns2=['group','numUnScored','best', 'good', 'avoid' ]
 simpleStaBar_df= simple_df[columns2].sort_values('group', ascending = False)
-simpleStaBar_df.columns= ['group', 'ECO-CERTIFICATION', "BEST CHOICE", "GOOD ALTERNATIVE", "AVOID"]
+simpleStaBar_df.columns= ['group', 'ECO-CERTIFIED', "BEST CHOICE", "GOOD ALTERNATIVE", "AVOID"]
 simpleStaBar_df=simpleStaBar_df.set_index('group')
 
 simpleStaBar_df.plot(kind='barh', stacked=True, figsize=(15, 25), color=['tab:blue','tab:green','tab:orange', 'tab:red'])
 plt.xlabel('Count')
 plt.ylabel('')
 plt.title('Source Recommendation Categories by Group')
+axvline(x=np.mean(simple_df['numTotal']), color='gray',zorder=0)
+text(23, -4.15, "Mean", horizontalalignment='left', size=12, color='gray', weight='semibold', rotation='vertical')
 
+
+## Scores by groups with ECO-Cert. stacked bar plot, by numTotal:
+
+simpleStaBar_df.assign(numTot=simpleStaBar_df.sum(axis=1))
+simpleStaBarS_df = simpleStaBar_df.assign(numTot=simpleStaBar_df.sum(axis=1)).sort_values('numTot')
+simpleStaBarS_df = simpleStaBarS_df.drop('numTot', 1)
+simpleStaBarS_df.plot(kind='barh', stacked=True, figsize=(15, 25), color=['tab:blue','tab:green','tab:orange', 'tab:red'])
+plt.xlabel('Count')
+plt.ylabel('')
+plt.title('Source Recommendation Categories by Group')
+axvline(x=np.mean(simple_df['numTotal']), color='gray',zorder=0)
+text(23, -4.15, "Mean", horizontalalignment='left', size=12, color='gray', weight='semibold', rotation='vertical')
 
 
 
@@ -423,13 +486,16 @@ plt.figure(figsize=(15, 25))
 plt.xlabel('Score')
 #plt.ylabel('Probability')
 plt.title('Scores by Group')
-plt.scatter(sortS_detail_df['overallScore'], sortS_detail_df['group'], c=cols)
-plt.scatter(sortS_detail_df.groupby('group').agg({'overallScore':'mean'}), group_grp, c='k', marker='x', label='Mean',s=40)
+p1=plt.scatter(sortS_detail_df['overallScore'], sortS_detail_df['group'], c=cols, alpha=1/3)
+p1=plt.scatter(sortS_detail_df.groupby('group').agg({'overallScore':'mean'}), group_grp, c='k', marker='x', label='Mean',s=40)
 legend_elements = [Line2D([0], [0], marker='o', color='w', label='BEST CHOICE', markerfacecolor='g', markersize=9),
                    Line2D([0], [0], marker='o', color='w', label='GOOD ALTERNATIVE', markerfacecolor='orange', markersize=9),
                    Line2D([0], [0], marker='o', color='w', label='AVOID', markerfacecolor='r', markersize=9),
-                   Line2D([0], [0], marker='x', color='k', label='Mean Score', linewidth=0, markersize=7)]
-plt.legend(handles= legend_elements, loc= 'lower right')
+                   Line2D([0], [0], marker='x', color='k', label='Group Mean Score', linewidth=0, markersize=7)]
+p1=plt.legend(handles= legend_elements, loc= 'lower right')
+axvline(x=np.mean([float(x) for x in OverallScore_c]), color='gray',zorder=0)
+p1=text(2.92, -3.6, "Mean", horizontalalignment='left', size=12, color='gray', weight='semibold', rotation='vertical')
+
 
 
 ## Scores by groups without ECO cert., same plot as above but with groups sorted by mean score
@@ -449,14 +515,15 @@ plt.figure(figsize=(15, 25))
 plt.xlabel('Score')
 #plt.ylabel('Probability')
 plt.title('Scores by Group')
-plt.scatter(sortGmean_detail_df['overallScore'], sortGmean_detail_df['group'], c=cols)
-plt.scatter(sortGmean_detail_df.groupby('group').agg({'overallScore':'mean'}), group_grp, c='k', marker='x', label='Mean',s=40)
+p1=plt.scatter(sortGmean_detail_df['overallScore'], sortGmean_detail_df['group'], c=cols, alpha=1/3)
+p1=plt.scatter(sortGmean_detail_df.groupby('group').agg({'overallScore':'mean'}), group_grp, c='k', marker='x', label='Mean',s=40)
 legend_elements = [Line2D([0], [0], marker='o', color='w', label='BEST CHOICE', markerfacecolor='g', markersize=9),
                    Line2D([0], [0], marker='o', color='w', label='GOOD ALTERNATIVE', markerfacecolor='orange', markersize=9),
                    Line2D([0], [0], marker='o', color='w', label='AVOID', markerfacecolor='r', markersize=9),
-                   Line2D([0], [0], marker='x', color='k', label='Mean Score', linewidth=0, markersize=7)]
-plt.legend(handles= legend_elements, loc= 'lower right')
-
+                   Line2D([0], [0], marker='x', color='k', label='Group Mean Score', linewidth=0, markersize=7)]
+p1=plt.legend(handles= legend_elements, loc= 'lower right')
+axvline(x=np.mean([float(x) for x in OverallScore_c]), color='gray',zorder=0)
+p1=text(2.92, -3.6, "Mean", horizontalalignment='left', size=12, color='gray', weight='semibold', rotation='vertical')
 
 
 
