@@ -1,0 +1,21 @@
+,method,rank,most_common_location,loc_count,location
+0,OFF-BOTTOM CULTURE,1,Worldwide,19,19
+1,BOTTOM CULTURE,2,Worldwide,17,19
+2,TANKS,3,U.S. - Idaho,1,4
+3,INDOOR FLOWTHROUGH RACEWAY,4,U.S.,1,1
+4,INDOOR FLOWTHROUGH TANK,5,Worldwide,1,1
+5,OUTDOOR FLOWTHROUGH TANK,6,Worldwide,1,1
+6,ENCLOSED BOTTOM CULTURE,7,Worldwide,1,1
+7,INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),8,Worldwide,52,52
+8,RACEWAYS,9,Canada,2,5
+9,OUTDOOR FLOWTHROUGH RACEWAY,10,U.S. - Idaho,1,4
+10,LARGE MESH BOTTOM TRAWL,60,U.S. - Northwest Atlantic Ocean,1,1
+11,BOAT SEINES,61,U.S. - Western Central Atlantic Ocean: Gulf of Mexico,1,9
+12,SKIMMER TRAWL,62,"U.S. - Florida, Western Central Atlantic Ocean",4,8
+13,GILLNETS AND ENTANGLING NETS (UNSPECIFIED),63,U.S. - Western Central Atlantic Ocean,2,22
+14,VERTICAL LINES,64,U.S. - Western Central Atlantic Ocean: Gulf of Mexico,9,21
+15,POTS,65,Russian Federation - Northwest Pacific Ocean: Bering Sea,10,128
+16,DRIFTING LONGLINES,66,North Pacific Ocean,11,103
+17,FLOATING OBJECT PURSE SEINE (FAD),67,East Pacific Ocean,6,23
+18,SEMI-INTENSIVE PONDS,68,Egypt,1,1
+19,SEMI-EXTENSIVE PONDS,69,Egypt,1,1

@@ -1,0 +1,287 @@
+group,method,location,loc_count
+Abalone,ENCLOSED BOTTOM CULTURE,Worldwide,1
+Abalone,INDOOR FLOWTHROUGH TANK,Worldwide,1
+Abalone,OFF-BOTTOM CULTURE,Worldwide,1
+Abalone,OPEN BOTTOM CULTURE,Worldwide,1
+Abalone,OUTDOOR FLOWTHROUGH TANK,Worldwide,1
+Arctic Char,"BARRIERS, FENCES, WEIRS, CORRALS, ETC.","Canada - Nunavut, Arctic Sea: Cambridge Bay",1
+Arctic Char,INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,1
+Arctic Char,INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,1
+Arctic Char,RACEWAYS,Canada,1
+Arctic Char,RACEWAYS,Iceland,1
+Arctic Char,RACEWAYS,U.S.,1
+Arctic Char,SET GILLNETS,"Canada - Nunavut, Arctic Sea: Cambridge Bay",1
+Bass,HANDLINES AND HAND-OPERATED POLE-AND-LINES,U.S. - Northwest Atlantic Ocean,1
+Bass,INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,2
+Bass,INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,2
+Bass,MARINE NET PEN,Mexico - Eastern Central Pacific Ocean,1
+Bass,PONDS,U.S.,1
+Bass,SET GILLNETS,U.S. - Northwest Atlantic Ocean,1
+Bass,STATIONARY UNCOVERED POUND NETS,U.S. - Northwest Atlantic Ocean,1
+Bass,TANKS,U.S.,1
+Brill,BEAM TRAWLS,United Kingdom of Great Britain and Northern Ireland - Northeast Atlantic Ocean,1
+Brill,BOTTOM TRAWLS,United Kingdom of Great Britain and Northern Ireland - Northeast Atlantic Ocean,1
+Brill,COMBINED GILLNETS - TRAMMEL NETS,United Kingdom of Great Britain and Northern Ireland - Northeast Atlantic Ocean,1
+Catfish,"BARRIERS, FENCES, WEIRS, CORRALS, ETC.",U.S. - Northwest Atlantic Ocean: Chesapeake Bay,1
+Catfish,BEACH SEINES,U.S. - Northwest Atlantic Ocean: Chesapeake Bay,1
+Catfish,FRESHWATER NET PEN,China,1
+Catfish,FYKE NETS,U.S. - Northwest Atlantic Ocean: Chesapeake Bay,1
+Catfish,INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,3
+Catfish,INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,3
+Catfish,INTENSIVE POND,Viet Nam,1
+Catfish,PONDS,China,1
+Catfish,PONDS,U.S.,1
+Catfish,SET GILLNETS,U.S. - Northwest Atlantic Ocean: Chesapeake Bay,1
+Catfish,STATIONARY UNCOVERED POUND NETS,U.S. - Northwest Atlantic Ocean: Chesapeake Bay,1
+Cod,"BARRIERS, FENCES, WEIRS, CORRALS, ETC.",Japan - Northwest Pacific Ocean (Tohoku region),1
+Cod,"BARRIERS, FENCES, WEIRS, CORRALS, ETC.",Japan - Sea of Japan (Sea of Japan Mgmt. region),1
+Cod,BOAT SEINES,Japan - Northwest Pacific Ocean (Hokkaido Mgmt. region),1
+Cod,BOAT SEINES,Japan - Northwest Pacific Ocean (Tohoku region),1
+Cod,BOAT SEINES,Japan - Sea of Japan (Hokkaido Mgmt. region),1
+Cod,BOAT SEINES,Japan - Sea of Japan (Sea of Japan Mgmt. region),1
+Cod,BOAT SEINES,Russian Federation - Northwest Pacific Ocean,1
+Cod,BOTTOM TRAWLS,"Canada - British Columbia, Northeast Pacific Ocean",1
+Cod,BOTTOM TRAWLS,"Canada - Newfoundland and Labrador, Northwest Atlantic Ocean: St. Pierre Bank (3Ps)",1
+Cod,BOTTOM TRAWLS,Japan - Northwest Pacific Ocean (Tohoku region),1
+Cod,BOTTOM TRAWLS,Japan - Sea of Okhotsk (Hokkaido Mgmt. region),1
+Cod,BOTTOM TRAWLS,Russian Federation - Northwest Pacific Ocean,1
+Cod,BOTTOM TRAWLS,"U.S. - Alaska, Northeast Pacific Ocean: Bering Sea (Pacific cod trawl)",1
+Cod,BOTTOM TRAWLS,"U.S. - Alaska, Northeast Pacific Ocean: Gulf of Alaska (Pacific cod trawl)",1
+Cod,BOTTOM TRAWLS,U.S. - Northwest Atlantic Ocean: Georges Bank,1
+Cod,BOTTOM TRAWLS,U.S. - Northwest Atlantic Ocean: Gulf of Maine,1
+Cod,BOTTOM TRAWLS,"U.S. - West Coast, Northeast Pacific Ocean and Eastern Central Pacific Ocean (IFQ trawl)",1
+Cod,HANDLINES AND HAND-OPERATED POLE-AND-LINES,U.S. - Northwest Atlantic Ocean: Georges Bank,1
+Cod,HANDLINES AND HAND-OPERATED POLE-AND-LINES,U.S. - Northwest Atlantic Ocean: Gulf of Maine,1
+Cod,INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,1
+Cod,INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,1
+Cod,POTS,"U.S. - Alaska, Northeast Pacific Ocean: Bering Sea (Pacific cod pot)",1
+Cod,POTS,"U.S. - Alaska, Northeast Pacific Ocean: Gulf of Alaska (Pacific cod pot)",1
+Cod,SET GILLNETS,"Canada - Newfoundland and Labrador, Northwest Atlantic Ocean: Northern Gulf of St. Lawrence (3Pn, 4RS)",1
+Cod,SET GILLNETS,"Canada - Newfoundland and Labrador, Northwest Atlantic Ocean: St. Pierre Bank (3Ps)",1
+Cod,SET GILLNETS,Japan - Northwest Pacific Ocean (Hokkaido Mgmt. region),1
+Cod,SET GILLNETS,Japan - Northwest Pacific Ocean (Tohoku region),1
+Cod,SET GILLNETS,Japan - Sea of Japan (Hokkaido Mgmt. region),1
+Cod,SET GILLNETS,Japan - Sea of Japan (Sea of Japan Mgmt. region),1
+Cod,SET GILLNETS,Japan - Sea of Okhotsk (Hokkaido Mgmt. region),1
+Cod,SET GILLNETS,U.S. - Northwest Atlantic Ocean: Georges Bank,1
+Cod,SET GILLNETS,U.S. - Northwest Atlantic Ocean: Gulf of Maine,1
+Cod,SET LONGLINES,"Canada - Newfoundland and Labrador, Northwest Atlantic Ocean: Northern Gulf of St. Lawrence (3Pn, 4RS)",1
+Cod,SET LONGLINES,"Canada - Newfoundland and Labrador, Northwest Atlantic Ocean: St. Pierre Bank (3Ps)",1
+Cod,SET LONGLINES,Japan - Northwest Pacific Ocean (Hokkaido Mgmt. region),1
+Cod,SET LONGLINES,Japan - Northwest Pacific Ocean (Tohoku region),1
+Cod,SET LONGLINES,Japan - Sea of Japan (Hokkaido Mgmt. region),1
+Cod,SET LONGLINES,Japan - Sea of Okhotsk (Hokkaido Mgmt. region),1
+Cod,SET LONGLINES,Russian Federation - Northwest Pacific Ocean,1
+Cod,SET LONGLINES,"U.S. - Alaska, Northeast Pacific Ocean: Bering Sea (Pacific cod longline)",1
+Cod,SET LONGLINES,"U.S. - Alaska, Northeast Pacific Ocean: Gulf of Alaska (Pacific cod longline)",1
+Cod,SET LONGLINES,U.S. - Northwest Atlantic Ocean: Georges Bank,1
+Cod,SET LONGLINES,U.S. - Northwest Atlantic Ocean: Gulf of Maine,1
+Crab,BOTTOM TRAWLS,Australia - Eastern Indian Ocean: Shark Bay,1
+Crab,BOTTOM TRAWLS,China - Northwest Pacific Ocean,1
+Crab,BOTTOM TRAWLS,India - Eastern Indian Ocean,1
+Crab,BOTTOM TRAWLS,India - Western Indian Ocean,1
+Crab,CRAB RINGS,"Mexico - Campeche, Western Central Atlantic Ocean: Gulf of Mexico",1
+Crab,CRAB RINGS,"Mexico - Sinaloa, Eastern Central Pacific Ocean",2
+Crab,CRAB RINGS,"U.S. - Oregon, Northeast Pacific Ocean",2
+Crab,GILLNETS AND ENTANGLING NETS (UNSPECIFIED),"Indonesia - Jawa, Eastern Indian Ocean",1
+Crab,GILLNETS AND ENTANGLING NETS (UNSPECIFIED),"Indonesia - Sulawesi, Western Central Pacific Ocean",1
+Crab,GILLNETS AND ENTANGLING NETS (UNSPECIFIED),"Indonesia - Sumatera, Eastern Indian Ocean",1
+Crab,GILLNETS AND ENTANGLING NETS (UNSPECIFIED),"Philippines - Palawan, Western Central Pacific Ocean",1
+Crab,GILLNETS AND ENTANGLING NETS (UNSPECIFIED),Philippines - Western Central Pacific Ocean: Visayan Sea,1
+Crab,GILLNETS AND ENTANGLING NETS (UNSPECIFIED),Sri Lanka - Eastern Indian Ocean: Gulf of Mannar,1
+Crab,GILLNETS AND ENTANGLING NETS (UNSPECIFIED),Sri Lanka - Eastern Indian Ocean: Palk Bay,1
+Crab,GILLNETS AND ENTANGLING NETS (UNSPECIFIED),Thailand - Eastern Indian Ocean: Andaman Sea,1
+Crab,GILLNETS AND ENTANGLING NETS (UNSPECIFIED),Thailand - Western Central Pacific Ocean: Gulf of Thailand,1
+Crab,GILLNETS AND ENTANGLING NETS (UNSPECIFIED),Viet Nam - Western Central Pacific Ocean: Gulf of Thailand,1
+Crab,POTS,Argentina - Southwest Atlantic Ocean,1
+Crab,POTS,Australia - Eastern Indian Ocean: Cockburn Sound,1
+Crab,POTS,Australia - Eastern Indian Ocean: Gulf of St. Vincent,1
+Crab,POTS,Australia - Eastern Indian Ocean: Peel-Harvey Estuary,1
+Crab,POTS,Australia - Eastern Indian Ocean: Shark Bay,1
+Crab,POTS,Australia - Eastern Indian Ocean: Spencer Gulf,1
+Crab,POTS,"Australia - New South Wales, Southwest Pacific Ocean",1
+Crab,POTS,"Australia - Queensland, Western Central Pacific Ocean",1
+Crab,POTS,"Canada - British Columbia, Northeast Pacific Ocean",1
+Crab,POTS,China - Northwest Pacific Ocean,1
+Crab,POTS,"Indonesia - Jawa, Eastern Indian Ocean",1
+Crab,POTS,"Indonesia - Sulawesi, Western Central Pacific Ocean",1
+Crab,POTS,"Indonesia - Sumatera, Eastern Indian Ocean",1
+Crab,POTS,Norway - Arctic Sea: Barents Sea,1
+Crab,POTS,"Philippines - Palawan, Western Central Pacific Ocean",1
+Crab,POTS,Philippines - Western Central Pacific Ocean: Visayan Sea,1
+Crab,POTS,Russian Federation - Northwest Pacific Ocean: Bering Sea,10
+Crab,POTS,Russian Federation - Northwest Pacific Ocean: Sea of Japan,10
+Crab,POTS,Russian Federation - Northwest Pacific Ocean: Sea of Okhotsk,10
+Crab,POTS,Thailand - Eastern Indian Ocean: Andaman Sea,1
+Crab,POTS,Thailand - Western Central Pacific Ocean: Gulf of Thailand,1
+Crab,POTS,"U.S. - Alabama, Western Central Atlantic Ocean: Gulf of Mexico",1
+Crab,POTS,"U.S. - Alaska , Northeast Pacific Ocean",1
+Crab,POTS,"U.S. - Alaska, Northeast Pacific Ocean: Bering Sea",2
+Crab,POTS,"U.S. - Alaska, Northeast Pacific Ocean: Bering Sea (Aleutian Islands)",1
+Crab,POTS,"U.S. - Alaska, Northeast Pacific Ocean: Bering Sea (Saint Matthew Island)",1
+Crab,POTS,"U.S. - Alaska, Northeast Pacific Ocean: Bristol Bay",1
+Crab,POTS,"U.S. - California, Pacific Ocean",1
+Crab,POTS,"U.S. - Connecticut , Northwest Atlantic Ocean",2
+Crab,POTS,"U.S. - Delaware , Northwest Atlantic Ocean",1
+Crab,POTS,"U.S. - Florida, Western Central Atlantic Ocean (excluding U.S. Gulf of Mexico)",3
+Crab,POTS,"U.S. - Florida, Western Central Atlantic Ocean: Gulf of Mexico",3
+Crab,POTS,"U.S. - Georgia, Western Central Atlantic Ocean",1
+Crab,POTS,"U.S. - Louisiana, Western Central Atlantic Ocean: Gulf of Mexico",1
+Crab,POTS,"U.S. - Maine, Northwest Atlantic Ocean",2
+Crab,POTS,"U.S. - Maryland, Northwest Atlantic Ocean",2
+Crab,POTS,"U.S. - Maryland, Western Central Atlantic Ocean: Chesapeake Bay",1
+Crab,POTS,"U.S. - Massachusetts, Northwest Atlantic Ocean",2
+Crab,POTS,"U.S. - Mississippi, Western Central Atlantic Ocean: Gulf of Mexico",1
+Crab,POTS,"U.S. - New Hampshire, Northwest Atlantic Ocean",2
+Crab,POTS,"U.S. - New Jersey, Northwest Atlantic Ocean",2
+Crab,POTS,"U.S. - New Jersey, Northwest Atlantic Ocean: Delaware Bay",1
+Crab,POTS,"U.S. - New York, Northwest Atlantic Ocean",2
+Crab,POTS,"U.S. - North Carolina, Northwest Atlantic Ocean",1
+Crab,POTS,"U.S. - Oregon , Northeast Pacific Ocean",1
+Crab,POTS,"U.S. - Rhode Island, Northwest Atlantic Ocean",2
+Crab,POTS,"U.S. - South Carolina, Western Central Atlantic Ocean",1
+Crab,POTS,"U.S. - Texas, Western Central Atlantic Ocean: Gulf of Mexico",1
+Crab,POTS,"U.S. - Virginia, Northwest Atlantic Ocean",2
+Crab,POTS,"U.S. - Virginia, Western Central Atlantic Ocean: Chesapeake Bay",1
+Crab,POTS,"U.S. - Washington , Northeast Pacific Ocean",1
+Crab,POTS,Viet Nam - Western Central Pacific Ocean: Gulf of Thailand,1
+Crab,SCOOPNETS,"Mexico - Campeche, Western Central Atlantic Ocean: Gulf of Mexico",1
+Crab,SET GILLNETS,India - Eastern Indian Ocean,1
+Crab,SET GILLNETS,India - Western Indian Ocean,1
+Crab,TRAPS,Canada - Northwest Atlantic Ocean: Bay of Fundy (Maritimes),1
+Crab,TRAPS,Canada - Northwest Atlantic Ocean: Gulf of Maine (Maritimes,1
+Crab,TRAPS,Canada - Northwest Atlantic Ocean: Gulf of St. Lawrence (Gulf Mgmt. region),1
+Crab,TRAPS,"Canada - Quebec, Northwest Atlantic Ocean: Gulf of St. Lawrence",1
+Crab,TRAPS,"Mexico - Sinaloa, Eastern Central Pacific Ocean",2
+Crab,TRAPS,"Mexico - Sonora, Eastern Central Pacific Ocean",1
+Crab,TRAPS,"U.S. - California, Pacific Ocean",3
+Crab,TRAPS,U.S. - Northwest Atlantic Ocean,1
+Crab,TRAPS,Viet Nam - Western Central Pacific Ocean: Gulf of Thailand,1
+Crab,TROTLINE,"U.S. - Maryland, Western Central Atlantic Ocean: Chesapeake Bay",1
+Orange Roughy,BOTTOM TRAWLS,New Zealand - Southwest Pacific Ocean (ORH1 Mercury-Colville),1
+Orange Roughy,BOTTOM TRAWLS,New Zealand - Southwest Pacific Ocean (ORH1 Northern North Island),1
+Orange Roughy,BOTTOM TRAWLS,New Zealand - Southwest Pacific Ocean (ORH2A north - East Cape),1
+Orange Roughy,BOTTOM TRAWLS,"New Zealand - Southwest Pacific Ocean (ORH2A south, ORH2B, ORH3A - Mid East Coast)",1
+Orange Roughy,BOTTOM TRAWLS,New Zealand - Southwest Pacific Ocean (ORH3B East and South Chatham Rise),1
+Orange Roughy,BOTTOM TRAWLS,New Zealand - Southwest Pacific Ocean (ORH3B Northwest Chatham Rise),1
+Orange Roughy,BOTTOM TRAWLS,New Zealand - Southwest Pacific Ocean (ORH3B Other),1
+Orange Roughy,BOTTOM TRAWLS,New Zealand - Southwest Pacific Ocean (ORH3B Puysegur),1
+Orange Roughy,BOTTOM TRAWLS,New Zealand - Southwest Pacific Ocean (ORH7A Challenger Plateau),1
+Pike,SET GILLNETS,"Canada - Manitoba, North America - Inland waters: Lake Manitoba",1
+Pike,SET GILLNETS,"Canada - Manitoba, North America - Inland waters: Lake Winnipeg",1
+Pike,SET GILLNETS,"Canada - Manitoba, North America - Inland waters: Lake Winnipegosis",1
+Sardine,MIDWATER TRAWLS,Mediterranean and Black Sea: Adriatic Sea,1
+Sardine,MIDWATER TRAWLS,Mediterranean and Black Sea: Aegean Sea,1
+Sardine,MIDWATER TRAWLS,Mediterranean and Black Sea: Alboran Sea,1
+Sardine,MIDWATER TRAWLS,Mediterranean and Black Sea: Gulf of Lion,1
+Sardine,MIDWATER TRAWLS,Mediterranean and Black Sea: Ionian Sea,1
+Sardine,MIDWATER TRAWLS,Mediterranean and Black Sea: Strait of Sicily,1
+Sardine,MIDWATER TRAWLS,Spain - Mediterranean and Black Sea: Mediterranean Sea,1
+Sardine,PURSE SEINES,Brazil - Southwest Atlantic Ocean,1
+Sardine,UNASSOCIATED PURSE SEINE (NON-FAD),Mediterranean and Black Sea: Adriatic Sea,1
+Sardine,UNASSOCIATED PURSE SEINE (NON-FAD),Mediterranean and Black Sea: Aegean Sea,1
+Sardine,UNASSOCIATED PURSE SEINE (NON-FAD),Mediterranean and Black Sea: Alboran Sea,1
+Sardine,UNASSOCIATED PURSE SEINE (NON-FAD),Mediterranean and Black Sea: Gulf of Lion,1
+Sardine,UNASSOCIATED PURSE SEINE (NON-FAD),Mediterranean and Black Sea: Ionian Sea,1
+Sardine,UNASSOCIATED PURSE SEINE (NON-FAD),Mediterranean and Black Sea: Strait of Sicily,1
+Sardine,UNASSOCIATED PURSE SEINE (NON-FAD),Spain - Mediterranean and Black Sea: Mediterranean Sea,1
+Scallop,BOTTOM CULTURE,Worldwide,13
+Scallop,DIVING,"Mexico - Baja California Sur, Eastern Central Pacific Ocean (Magdalena Bay)",1
+Scallop,OFF-BOTTOM CULTURE,Worldwide,13
+Scallop,TOWED DREDGES,"U.S. - Alaska, Northeast Pacific Ocean: Bering Sea",1
+Scallop,TOWED DREDGES,"U.S. - Alaska, Northeast Pacific Ocean: Gulf of Alaska",1
+Scallop,TOWED DREDGES,"U.S. - Massachusetts, Northwest Atlantic Ocean",1
+Scallop,TOWED DREDGES,"U.S. - New York, Northwest Atlantic Ocean",1
+Seaweed,OFF-BOTTOM CULTURE,Worldwide,1
+Shark,BOTTOM TRAWLS,"U.S. - West Coast, Pacific Ocean (IFQ trawl)",1
+Shark,DRIFT GILLNETS,Chile - Southeast Pacific Ocean,1
+Shark,DRIFT GILLNETS,"U.S. - California, Eastern Central Pacific Ocean",2
+Shark,DRIFTING LONGLINES,Canada - Northwest Atlantic Ocean,3
+Shark,DRIFTING LONGLINES,East Pacific Ocean,1
+Shark,DRIFTING LONGLINES,East Pacific Ocean (Northern stock),1
+Shark,DRIFTING LONGLINES,East Pacific Ocean (Southern stock),1
+Shark,DRIFTING LONGLINES,Indian Ocean (Tropical tuna fishery),2
+Shark,DRIFTING LONGLINES,North Atlantic Ocean,1
+Shark,DRIFTING LONGLINES,North Atlantic Ocean (excluding U.S.),1
+Shark,DRIFTING LONGLINES,North Pacific Ocean,3
+Shark,DRIFTING LONGLINES,South Atlantic Ocean,2
+Shark,DRIFTING LONGLINES,South Pacific Ocean,3
+Shark,DRIFTING LONGLINES,Southern Indian Ocean (Bluefin fishery),2
+Shark,DRIFTING LONGLINES,Sri Lanka - Indian Ocean,1
+Shark,DRIFTING LONGLINES,U.S. - Atlantic Ocean,2
+Shark,DRIFTING LONGLINES,Western and Central Pacific Ocean,1
+Shark,FLOATING OBJECT PURSE SEINE (FAD),East Pacific Ocean,1
+Shark,LONGLINE (DEEP-SET),Indian Ocean (Albacore fishery),2
+Shark,LONGLINE (DEEP-SET),"U.S. - Hawaii, Eastern Central Pacific Ocean (Including vessels landing in California)",1
+Shark,LONGLINE (DEEP-SET),"U.S. - Hawaii, Eastern Central Pacific Ocean (including vessels landing in California)",1
+Shark,LONGLINE (DEEP-SET),"U.S. - Hawaii, Western and Central Pacific Ocean",2
+Shark,LONGLINE (SHALLOW-SET),"Canada - British Columbia, Northeast Pacific Ocean",1
+Shark,LONGLINE (SHALLOW-SET),Indian Ocean (Swordfish fishery),2
+Shark,LONGLINE (SHALLOW-SET),"U.S. - Hawaii, Eastern Central Pacific Ocean (including vessels landing in California)",2
+Shark,LONGLINE (SHALLOW-SET),"U.S. - Hawaii, Western and Central Pacific Ocean",2
+Sole,BOTTOM TRAWLS,"Canada - British Columbia, Northeast Pacific Ocean (hard substrate)",1
+Sole,BOTTOM TRAWLS,"Canada - British Columbia, Northeast Pacific Ocean (soft substrate)",4
+Sole,BOTTOM TRAWLS,"U.S. - Alaska, Northeast Pacific Ocean: Bering Sea (Greenland turbot trawl)",1
+Sole,BOTTOM TRAWLS,"U.S. - California, Eastern Central Pacific Ocean (California Groundfish Collective)",2
+Sole,BOTTOM TRAWLS,"U.S. - California, Eastern Central Pacific Ocean (California Groundfish Collective, soft substrate)",1
+Sole,BOTTOM TRAWLS,"U.S. - West Coast, Pacific Ocean (IFQ trawl)",4
+Sole,INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,9
+Sole,INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,9
+Sole,MIDWATER TRAWLS,"Canada - British Columbia, Northeast Pacific Ocean (hard substrate)",1
+Squid,BOTTOM TRAWLS,China - Northwest Pacific Ocean,3
+Squid,BOTTOM TRAWLS,India - Indian Ocean,1
+Squid,BOTTOM TRAWLS,Japan - Northwest Pacific Ocean (Winter cohort),1
+Squid,BOTTOM TRAWLS,Thailand - Western and Central Pacific Ocean,3
+Squid,CAST NETS,Indonesia - Western and Central Pacific Ocean,2
+Squid,CAST NETS,Thailand - Western and Central Pacific Ocean,3
+Squid,JIG,Argentina - Southwest Atlantic Ocean,1
+Squid,JIG,Chile - Southeast Pacific Ocean,1
+Squid,JIG,China - Northwest Pacific Ocean,3
+Squid,JIG,China - Southeast Pacific Ocean,1
+Squid,JIG,Indonesia - Western and Central Pacific Ocean,2
+Squid,JIG,Japan - Northwest Pacific Ocean (Autumn cohort),1
+Squid,JIG,Japan - Northwest Pacific Ocean (Winter cohort),1
+Squid,JIG,Mexico - Eastern Central Pacific Ocean: Gulf of California,1
+Squid,JIG,Peru - Southeast Pacific Ocean,1
+Squid,JIG,Southwest Atlantic Ocean,1
+Squid,JIG,Thailand - Western and Central Pacific Ocean,3
+Squid,MIDWATER TRAWLS,China - Northwest Pacific Ocean (Winter cohort),1
+Squid,PURSE SEINES,China - Northwest Pacific Ocean,3
+Squid,PURSE SEINES,Japan - Northwest Pacific Ocean (Winter cohort),1
+Squid,PURSE SEINES,"U.S. - California, Eastern Central Pacific Ocean",1
+Squid,STATIONARY UNCOVERED POUND NETS,Japan - Northwest Pacific Ocean (Winter cohort),1
+Sturgeon,DRIFT GILLNETS,U.S. - North America - Inland waters: Columbia River,1
+Sturgeon,INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,7
+Sturgeon,INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,7
+Sturgeon,OUTDOOR FLOWTHROUGH RACEWAY,U.S. - California,1
+Sturgeon,OUTDOOR FLOWTHROUGH RACEWAY,U.S. - Idaho,1
+Sturgeon,SET GILLNETS,Canada - North America - inland waters: St. Lawrence River,1
+Sturgeon,SET GILLNETS,Canada - Northeast Pacific Ocean: St. Lawrence River Estuary,1
+Sturgeon,SET GILLNETS,U.S. - North America - Inland waters: Mississippi River Basin (Shovelnose sturgeon fishery),1
+Sturgeon,TANKS,U.S. - California,1
+Sturgeon,TANKS,U.S. - Idaho,1
+Tilapia,FRESHWATER NET PEN,Colombia,2
+Tilapia,FRESHWATER NET PEN,Honduras,1
+Tilapia,FRESHWATER NET PEN,Indonesia,1
+Tilapia,FRESHWATER NET PEN,Mexico,1
+Tilapia,INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,3
+Tilapia,INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,3
+Tilapia,PONDS,China,3
+Tilapia,PONDS,Ecuador,2
+Tilapia,PONDS,Taiwan,6
+Tilapia,RACEWAYS,Peru,1
+Toothfish,LONGLINE (DEEP-SET),Chile - Southeast Pacific Ocean,1
+Toothfish,LONGLINE (DEEP-SET),South Africa - Antarctic and Southern Indian Ocean: Prince Edward Islands,1
+Triggerfish,DIVING,"U.S. - Puerto Rico, Western Central Atlantic Ocean",1
+Triggerfish,DIVING,"U.S. - Virgin Islands, Western Central Atlantic Ocean",1
+Triggerfish,DIVING,U.S. - Western Central Atlantic Ocean (excluding U.S. Gulf of Mexico),1
+Triggerfish,HANDLINES,U.S. - Western Central Atlantic Ocean (excluding U.S. Gulf of Mexico),1
+Triggerfish,HANDLINES,U.S. - Western Central Atlantic Ocean: Gulf of Mexico,1
+Triggerfish,HANDLINES AND HAND-OPERATED POLE-AND-LINES,"U.S. - Florida, Western Central Atlantic Ocean",1
+Triggerfish,POTS,"U.S. - Puerto Rico, Western Central Atlantic Ocean",1
+Triggerfish,POTS,"U.S. - Virgin Islands, Western Central Atlantic Ocean",1
+Triggerfish,SET LONGLINES,"U.S. - Puerto Rico, Western Central Atlantic Ocean",1
+Turbot,BOTTOM TRAWLS,"U.S. - Alaska, Northeast Pacific Ocean: Bering Sea (Greenland turbot trawl)",1
+Turbot,INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,1
+Turbot,INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,1
+Turbot,SET LONGLINES,"U.S. - Alaska, Northeast Pacific Ocean: Bering Sea (Greenland turbot longline)",1

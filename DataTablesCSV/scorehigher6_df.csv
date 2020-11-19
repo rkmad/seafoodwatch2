@@ -1,173 +1,173 @@
 ,group,recommend,typeNames,method,location,overallScore
-0,Abalone,BEST CHOICE,Abalone Awabi,Indoor flowthrough tank,Worldwide,6.95
-1,Abalone,BEST CHOICE,Abalone Awabi,Enclosed bottom culture,Worldwide,6.95
-2,Abalone,BEST CHOICE,Abalone Awabi,Outdoor flowthrough tank,Worldwide,6.95
-3,Abalone,BEST CHOICE,Abalone Awabi,Off-bottom culture,Worldwide,6.95
-4,Abalone,GOOD ALTERNATIVE,Abalone Awabi,Open bottom culture,Worldwide,6.24
-0,Amberjack,BEST CHOICE,"Amberjack, Almaco Jack Amberjack, Buri, Hamachi, Kahala, Hawaiian Kanpachi, Pacific Amberjack, Yellowtail",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-1,Amberjack,BEST CHOICE,"Amberjack, Buri Amberjack, Hamachi, Kanpachi, Japanese Amberjack, Japanese Yellowtail",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-2,Amberjack,BEST CHOICE,"Amberjack, Greater Amberjack, Atlantic Amberjack, Buri, Kanpachi, Yellowtail",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-3,Amberjack,BEST CHOICE,"Amberjack, Yellowtail Amberjack, Buri, Hamachi, Kanpachi",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-4,Amberjack,GOOD ALTERNATIVE,"Amberjack, Almaco Jack Amberjack, Buri, Hamachi, Kahala, Hawaiian Kanpachi, Pacific Amberjack, Yellowtail",Marine net pen,"U.S. - Hawaii, Eastern Central Pacific Ocean",6.78
-6,Amberjack,GOOD ALTERNATIVE,"Amberjack, Almaco Jack Amberjack, Buri, Hamachi, Kahala, Hawaiian Kanpachi, Pacific Amberjack, Yellowtail",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-7,Amberjack,GOOD ALTERNATIVE,"Amberjack, Buri Amberjack, Hamachi, Kanpachi, Japanese Amberjack, Japanese Yellowtail",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-12,Amberjack,GOOD ALTERNATIVE,"Amberjack, Greater Amberjack, Atlantic Amberjack, Buri, Kanpachi, Yellowtail",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-20,Amberjack,GOOD ALTERNATIVE,"Amberjack, Yellowtail Amberjack, Buri, Hamachi, Kanpachi",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Arctic Char,BEST CHOICE,"Arctic Char                         Alpine Char, Alpine Trout, Char, Common Char, Iwana, Sea Trout",Raceways,Iceland,6.78
-1,Arctic Char,BEST CHOICE,"Arctic Char                         Alpine Char, Alpine Trout, Char, Common Char, Iwana, Sea Trout",Raceways,U.S.,6.72
-3,Arctic Char,BEST CHOICE,"Arctic Char                         Alpine Char, Alpine Trout, Char, Common Char, Iwana, Sea Trout",Raceways,Canada,6.72
-5,Arctic Char,BEST CHOICE,"Arctic Char                         Alpine Char, Alpine Trout, Char, Common Char, Iwana, Sea Trout",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-6,Arctic Char,GOOD ALTERNATIVE,"Arctic Char                         Alpine Char, Alpine Trout, Char, Common Char, Iwana, Sea Trout",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Bass,BEST CHOICE,"Bass, Striped                         Greenhead, Linesides, Rockfish, Striper, Suzuki",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-1,Bass,BEST CHOICE,"Bass, Sunshine                         Bass, Hybrid Striped Bass, Hybrid White Bass, Suzuki",Tanks,U.S.,7.17
-2,Bass,BEST CHOICE,"Bass, Sunshine                         Bass, Hybrid Striped Bass, Hybrid White Bass, Suzuki",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-3,Bass,BEST CHOICE,"Bass, Sunshine                         Bass, Hybrid Striped Bass, Hybrid White Bass, Suzuki",Ponds,U.S.,6.9
-4,Bass,GOOD ALTERNATIVE,"Bass, Striped                         Greenhead, Linesides, Rockfish, Striper, Suzuki",Marine net pen,Mexico - Eastern Central Pacific Ocean,6.11
-5,Bass,GOOD ALTERNATIVE,"Bass, Striped                         Greenhead, Linesides, Rockfish, Striper, Suzuki",Indoor recirculating tank (Without wastewater treatment),Worldwide,6.63
-7,Bass,GOOD ALTERNATIVE,"Bass, Sunshine                         Bass, Hybrid Striped Bass, Hybrid White Bass, Suzuki",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Bream,BEST CHOICE,"Bream, Gilthead                         Bream, Giltheaded Seabream, Silver Seabream",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-2,Bream,GOOD ALTERNATIVE,"Bream, Gilthead                         Bream, Giltheaded Seabream, Silver Seabream",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-5,Catfish,BEST CHOICE,"Catfish, Channel                         Catfish",Ponds,U.S.,7.62
-6,Catfish,BEST CHOICE,"Catfish, Channel                         Catfish",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-7,Catfish,BEST CHOICE,"Catfish, Sharptooth                         African Catfish, Sharptooth Clarias Fish",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-8,Catfish,BEST CHOICE,"Catfish, Wels                         Catfish",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-9,Catfish,GOOD ALTERNATIVE,"Catfish, Channel                         Catfish",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-10,Catfish,GOOD ALTERNATIVE,"Catfish, Sharptooth                         African Catfish, Sharptooth Clarias Fish",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-11,Catfish,GOOD ALTERNATIVE,"Catfish, Wels                         Catfish",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Clams,BEST CHOICE,"Clams                         Blood Clam, Chinese Razor Clam, Frilled Venus Clam, Hard Clam, Japanese Carpet Shell, Japanese Littleneck Clam, Littleneck Clam, Lyrate Hard Clam, Northern Quahog Clam, Razor Clam, Softshell Clam, Venus Clam",Bottom culture,Worldwide,7.01
-1,Clams,BEST CHOICE,"Clams                         Blood Clam, Chinese Razor Clam, Frilled Venus Clam, Hard Clam, Japanese Carpet Shell, Japanese Littleneck Clam, Littleneck Clam, Lyrate Hard Clam, Northern Quahog Clam, Razor Clam, Softshell Clam, Venus Clam",Off-bottom culture,Worldwide,7.01
-15,Clams,GOOD ALTERNATIVE,"Clams, Pacific Geoduck                         Elephant-trunk Clam, Giant Clam, King Clam, Mirugai",Bottom culture,"U.S. - Washington, Northeast Pacific Ocean",6.29
-16,Clams,GOOD ALTERNATIVE,"Clams, Pacific Geoduck                         Elephant-trunk Clam, Giant Clam, King Clam, Mirugai",Bottom culture,"Canada - British Columbia, Northeast Pacific Ocean",6.34
-3,Cobia,BEST CHOICE,"Cobia                         Cobia, Crabeater, Cubby, Lemonfish, Ling, Sergeantfish, Yew",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-6,Cobia,GOOD ALTERNATIVE,"Cobia                         Cobia, Crabeater, Cubby, Lemonfish, Ling, Sergeantfish, Yew",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Cockles,BEST CHOICE,"Cockles Basket Cockle, Blood Cockle, Cockle, Common Cockle, New Zealand Cockle",Off-bottom culture,Worldwide,7.01
-1,Cockles,BEST CHOICE,"Cockles Basket Cockle, Blood Cockle, Cockle, Common Cockle, New Zealand Cockle",Bottom culture,Worldwide,7.01
-0,Cod,BEST CHOICE,"Cod, Atlantic                         Cod, Codfish, Scrod, True Cod, Whitefish",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-9,Cod,GOOD ALTERNATIVE,"Cod, Atlantic                         Cod, Codfish, Scrod, True Cod, Whitefish",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Crayfish,BEST CHOICE,"Crayfish, Red Swamp                         Crawdads, Crawfish, Crayfish, Louisiana Crawfish, Mudbugs",Ponds,U.S.,7.53
-0,Drum,BEST CHOICE,"Drum, Red                         Channel Bass, Drum, Redfish, Spot Tail Bass",Ponds,U.S.,6.68
-0,Halibut,BEST CHOICE,"Halibut, Atlantic                         Halibut, Hirame",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-1,Halibut,GOOD ALTERNATIVE,"Halibut, Atlantic                         Halibut, Hirame",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Meagre,BEST CHOICE,"Meagre                         Croaker, Shadefish",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-1,Meagre,GOOD ALTERNATIVE,"Meagre                         Croaker, Shadefish",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Mussels,BEST CHOICE,"Mussels                         Blue Mussel, Chilean Mussel, Green Mussel, Mediterranean Mussel, New Zealand Green Mussel, Perna Mussel",Off-bottom culture,Worldwide,6.68
-1,Mussels,BEST CHOICE,"Mussels                         Blue Mussel, Chilean Mussel, Green Mussel, Mediterranean Mussel, New Zealand Green Mussel, Perna Mussel",Bottom culture,Worldwide,6.68
-0,Oysters,BEST CHOICE,"Oysters Akoya Pearl Oyster, American Cupped Oyster, Australian Mud Oyster, Eastern Oyster, Edible Oyster, European Flat Oyster, Hong Kong Oyster, Iwagki Oyster, Japanese Flat Oyster, Kumamoto Oyster, Olympia Oyster, Pacific Cupped Oyster, Pacific Oyster, Portuguese Oyster, Suminoe Oyster, Sydney Rock Oyster, Zhe Oyster",Bottom culture,Worldwide,6.69
-1,Oysters,BEST CHOICE,"Oysters Akoya Pearl Oyster, American Cupped Oyster, Australian Mud Oyster, Eastern Oyster, Edible Oyster, European Flat Oyster, Hong Kong Oyster, Iwagki Oyster, Japanese Flat Oyster, Kumamoto Oyster, Olympia Oyster, Pacific Cupped Oyster, Pacific Oyster, Portuguese Oyster, Suminoe Oyster, Sydney Rock Oyster, Zhe Oyster",Off-bottom culture,Worldwide,6.69
-0,Perch,BEST CHOICE,"Perch, Giant                         Asian Sea Bass, Australian Sea Bass, Barra, Barramundi Perch, Barramundi, Palmer, Silver Barramundi, White Sea Bass",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-1,Perch,BEST CHOICE,"Perch, Giant                         Asian Sea Bass, Australian Sea Bass, Barra, Barramundi Perch, Barramundi, Palmer, Silver Barramundi, White Sea Bass",Marine net pen,Viet Nam,6.69
-3,Perch,BEST CHOICE,"Perch, Yellow                         American Perch, Common Perch, Lake Perch, Ned, Raccoon Perch, Redfin Perch, Redfin, Ringed Perch, River Perch, Striped Perch, Yellow Ned",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-7,Perch,GOOD ALTERNATIVE,"Perch, Giant                         Asian Sea Bass, Australian Sea Bass, Barra, Barramundi Perch, Barramundi, Palmer, Silver Barramundi, White Sea Bass",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-16,Perch,GOOD ALTERNATIVE,"Perch, Yellow American Perch, Common Perch, Lake Perch, Ned, Raccoon Perch, Redfin Perch, Redfin, Ringed Perch, River Perch, Striped Perch, Yellow Ned",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-6,Pompano,BEST CHOICE,"Pompano, Florida                         Koban Aji, Pompano",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-8,Pompano,BEST CHOICE,"Pompano, Snubnose                         Koban Aji, Pompano",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-9,Pompano,GOOD ALTERNATIVE,"Pompano, Florida                         Koban Aji, Pompano",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-10,Pompano,GOOD ALTERNATIVE,"Pompano, Snubnose                         Koban Aji, Pompano",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-9,Sablefish,BEST CHOICE,"Sablefish                         Alaska Cod, Black Cod, Butterfish, Gindara, Sablefish",Marine net pen,"Canada - British Columbia, Northeast Pacific Ocean",6.79
-0,Salmon,BEST CHOICE,"Salmon, Atlantic Sake, Salmon",Marine net pen,"Norway - Nordland, Skjerstad Fjord",7.17
-1,Salmon,BEST CHOICE,"Salmon, Atlantic Sake, Salmon",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-2,Salmon,BEST CHOICE,"Salmon, Chinook King Salmon, Quinnat Salmon, Sake, Spring Salmon, Tyee Salmon",Marine net pen,New Zealand - Southwest Pacific Ocean,6.78
-3,Salmon,BEST CHOICE,"Salmon, Chinook King Salmon, Quinnat Salmon, Sake, Spring Salmon, Tyee Salmon",Freshwater net pen,New Zealand - Oceania - Inland waters,7.87
-4,Salmon,BEST CHOICE,"Salmon, Chinook King Salmon, Quinnat Salmon, Sake, Spring Salmon, Tyee Salmon",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-5,Salmon,BEST CHOICE,"Salmon, Coho Coho, Medium Red Salmon, Sake, Silver Salmon",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-8,Salmon,BEST CHOICE,"Salmon, Sockeye Blueback salmon, Red salmon, Sake, Sockeye",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-13,Salmon,GOOD ALTERNATIVE,"Salmon, Atlantic Sake, Salmon",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-27,Salmon,GOOD ALTERNATIVE,"Salmon, Chinook King Salmon, Quinnat Salmon, Sake, Spring Salmon, Tyee Salmon",Marine net pen,"Canada - British Columbia, Northeast Pacific Ocean",6.52
-28,Salmon,GOOD ALTERNATIVE,"Salmon, Chinook King Salmon, Quinnat Salmon, Sake, Spring Salmon, Tyee Salmon",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-44,Salmon,GOOD ALTERNATIVE,"Salmon, Coho Coho, Medium Red Salmon, Sake, Silver Salmon",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-54,Salmon,GOOD ALTERNATIVE,"Salmon, Sockeye Blueback salmon, Red salmon, Sake, Sockeye",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Scallop,BEST CHOICE,"Scallop, Atlantic Calico                         Calico Scallop, Hotate, Scallop",Off-bottom culture,Worldwide,8.86
-1,Scallop,BEST CHOICE,"Scallop, Atlantic Calico                         Calico Scallop, Hotate, Scallop",Bottom culture,Worldwide,8.86
-2,Scallop,BEST CHOICE,"Scallop, Bay                         Hotate, Scallop",Off-bottom culture,Worldwide,8.86
-3,Scallop,BEST CHOICE,"Scallop, Bay                         Hotate, Scallop",Bottom culture,Worldwide,8.86
-4,Scallop,BEST CHOICE,"Scallop, Common Japanese                         Hotate, Scallop",Off-bottom culture,Worldwide,8.86
-5,Scallop,BEST CHOICE,"Scallop, Common Japanese                         Hotate, Scallop",Bottom culture,Worldwide,8.86
-6,Scallop,BEST CHOICE,"Scallop, Iceland                         Hotate, Scallop",Off-bottom culture,Worldwide,8.86
-7,Scallop,BEST CHOICE,"Scallop, Iceland                         Hotate, Scallop",Bottom culture,Worldwide,8.86
-8,Scallop,BEST CHOICE,"Scallop, Lined                         Hotate, Scallop",Off-bottom culture,Worldwide,8.86
-9,Scallop,BEST CHOICE,"Scallop, Lined                         Hotate, Scallop",Bottom culture,Worldwide,8.86
-10,Scallop,BEST CHOICE,"Scallop, Nucleus                         Hotate, Scallop",Bottom culture,Worldwide,8.86
-11,Scallop,BEST CHOICE,"Scallop, Nucleus                         Hotate, Scallop",Off-bottom culture,Worldwide,8.86
-12,Scallop,BEST CHOICE,"Scallop, Pacific Calico                         Calico Scallop, Catarina Scallop, Hotate, Mexican Bay Scallop, Scallop",Off-bottom culture,Worldwide,8.86
-13,Scallop,BEST CHOICE,"Scallop, Pacific Calico                         Calico Scallop, Catarina Scallop, Hotate, Mexican Bay Scallop, Scallop",Bottom culture,Worldwide,8.86
-14,Scallop,BEST CHOICE,"Scallop, Peruvian                         Chilean Scallop, Fan Scallop, Hotate, Peruvian Bay Scallop, Scallop, Sea Scallop",Bottom culture,Worldwide,8.86
-15,Scallop,BEST CHOICE,"Scallop, Peruvian                         Chilean Scallop, Fan Scallop, Hotate, Peruvian Bay Scallop, Scallop, Sea Scallop",Off-bottom culture,Worldwide,8.86
-16,Scallop,BEST CHOICE,"Scallop, Queen                         Hotate, Scallop",Off-bottom culture,Worldwide,8.86
-17,Scallop,BEST CHOICE,"Scallop, Queen                         Hotate, Scallop",Bottom culture,Worldwide,8.86
-18,Scallop,BEST CHOICE,"Scallop, Reddish                         Hotate, Scallop",Off-bottom culture,Worldwide,8.86
-19,Scallop,BEST CHOICE,"Scallop, Reddish                         Hotate, Scallop",Bottom culture,Worldwide,8.86
-20,Scallop,BEST CHOICE,"Scallop, Sea                         American Sea Scallop, Atlantic Sea Scallop, Digby Scallop, Hotate, Scallop",Off-bottom culture,Worldwide,8.86
-21,Scallop,BEST CHOICE,"Scallop, Sea                         American Sea Scallop, Atlantic Sea Scallop, Digby Scallop, Hotate, Scallop",Bottom culture,Worldwide,8.86
-22,Scallop,BEST CHOICE,"Scallop, Spiny                         Hotate, Scallop",Bottom culture,Worldwide,8.86
-23,Scallop,BEST CHOICE,"Scallop, Spiny                         Hotate, Scallop",Off-bottom culture,Worldwide,8.86
-24,Scallop,BEST CHOICE,"Scallop, Weathervane                         Alaska Scallop, Hotate, Scallop",Off-bottom culture,Worldwide,8.86
-25,Scallop,BEST CHOICE,"Scallop, Weathervane                         Alaska Scallop, Hotate, Scallop",Bottom culture,Worldwide,8.86
-0,Seabass,BEST CHOICE,"Seabass, Black                         Atlantic Seabass, Black Perch, Chub, Rock Bass, Sea Bass, Suzuki, Tallywag",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-1,Seabass,BEST CHOICE,"Seabass, European                         Branzini, Branzino, Loup de mer, Mediterranean Seabass, Suzuki",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-2,Seabass,GOOD ALTERNATIVE,"Seabass, Black                         Atlantic Seabass, Black Perch, Chub, Rock Bass, Sea Bass, Suzuki, Tallywag",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-7,Seabass,GOOD ALTERNATIVE,"Seabass, European                         Branzini, Branzino, Loup de mer, Mediterranean Seabass, Suzuki",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Seaweed,BEST CHOICE,"Seaweed Arame, Asian Kelp, Hijiki, Horsetail, Ito-wakame, Japanese Kelp, Kelp, Kizami-wakame, Kombu, Nambu wakame, Nori, Ogonori, Sugar Kelp, Wakame, Winged Kelp",Off-bottom culture,Worldwide,7.93
-0,Shrimp,BEST CHOICE,"Shrimp, Giant Freshwater Prawn Ebi, Freshwater prawn, Freshwater shrimp, Giant Malaysian prawn, Giant river prawn, Scampi",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-1,Shrimp,BEST CHOICE,"Shrimp, Giant Tiger Prawn Asian Tiger Shrimp, Black Tiger Prawn/Shrimp, Ebi, Shrimp, Tiger Prawn/Shrimp",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-3,Shrimp,BEST CHOICE,"Shrimp, Whiteleg Ebi, Pacific White Shrimp, Pacific Whiteleg Shrimp, Shrimp, Western White Shrimp, White Shrimp",Ponds,U.S.,7.01
-4,Shrimp,BEST CHOICE,"Shrimp, Whiteleg Ebi, Pacific White Shrimp, Pacific Whiteleg Shrimp, Shrimp, Western White Shrimp, White Shrimp",Indoor flowthrough raceway,U.S.,7.01
-5,Shrimp,BEST CHOICE,"Shrimp, Whiteleg Ebi, Pacific White Shrimp, Pacific Whiteleg Shrimp, Shrimp, Western White Shrimp, White Shrimp",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-20,Shrimp,GOOD ALTERNATIVE,"Shrimp, Giant Freshwater Prawn Ebi, Freshwater prawn, Freshwater shrimp, Giant Malaysian prawn, Giant river prawn, Scampi",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-21,Shrimp,GOOD ALTERNATIVE,"Shrimp, Giant Tiger Prawn Asian Tiger Shrimp, Black Tiger Prawn/Shrimp, Ebi, Shrimp, Tiger Prawn/Shrimp",Ponds,Myanmar,7.73
-22,Shrimp,GOOD ALTERNATIVE,"Shrimp, Giant Tiger Prawn Asian Tiger Shrimp, Black Tiger Prawn/Shrimp, Ebi, Shrimp, Tiger Prawn/Shrimp",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-46,Shrimp,GOOD ALTERNATIVE,"Shrimp, Whiteleg Ebi, Pacific White Shrimp, Pacific Whiteleg Shrimp, Shrimp, Western White Shrimp, White Shrimp",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Sole,BEST CHOICE,"Sole, Butter                         Flounder, Hirame, Sole",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-2,Sole,BEST CHOICE,"Sole, Dover                         Hirame, Slime Sole, Slippery Sole, Sole",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-6,Sole,BEST CHOICE,"Sole, English                         Flounder, Hirame, Sole",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-7,Sole,BEST CHOICE,"Sole, European Dover                         Common Sole, Genuine Dover Sole, Hirame, Sole",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-9,Sole,BEST CHOICE,"Sole, Northern Rock                         Flounder, Hirame, Sole",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-11,Sole,BEST CHOICE,"Sole, Petrale                         Flounder, Hirame, Sole",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-13,Sole,BEST CHOICE,"Sole, Rex                         Flounder, Hirame, Sole",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-14,Sole,BEST CHOICE,"Sole, Southern Rock                         Flounder, Hirame, Sole",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-15,Sole,BEST CHOICE,"Sole, Yellowfin                         Flounder, Hirame, Sole",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-16,Sole,GOOD ALTERNATIVE,"Sole, Butter                         Flounder, Hirame, Sole",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-18,Sole,GOOD ALTERNATIVE,"Sole, Dover                         Hirame, Slime Sole, Slippery Sole, Sole",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-20,Sole,GOOD ALTERNATIVE,"Sole, English                         Flounder, Hirame, Sole",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-21,Sole,GOOD ALTERNATIVE,"Sole, European Dover                         Common Sole, Genuine Dover Sole, Hirame, Sole",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-22,Sole,GOOD ALTERNATIVE,"Sole, Northern Rock                         Flounder, Hirame, Sole",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-25,Sole,GOOD ALTERNATIVE,"Sole, Petrale                         Flounder, Hirame, Sole",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-27,Sole,GOOD ALTERNATIVE,"Sole, Rex                         Flounder, Hirame, Sole",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-30,Sole,GOOD ALTERNATIVE,"Sole, Southern Rock                         Flounder, Hirame, Sole",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-31,Sole,GOOD ALTERNATIVE,"Sole, Yellowfin                         Flounder, Hirame, Sole",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Sturgeon,BEST CHOICE,"Sturgeon, Atlantic                         Caviar, Chozame, Sturgeon",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-1,Sturgeon,BEST CHOICE,"Sturgeon, Beluga                         Caviar, Chozame, Sturgeon",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-2,Sturgeon,BEST CHOICE,"Sturgeon, Russian                         Caviar, Chozame, Sturgeon",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-3,Sturgeon,BEST CHOICE,"Sturgeon, Siberian                         Caviar, Chozame, Sturgeon",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-4,Sturgeon,BEST CHOICE,"Sturgeon, Stellate                         Caviar, Chozame, Sturgeon, Sevruga",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-5,Sturgeon,BEST CHOICE,"Sturgeon, Sterlet                         Caviar, Chozame, Sturgeon",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-6,Sturgeon,BEST CHOICE,"Sturgeon, White                         Caviar, Chozame, Sturgeon",Outdoor flowthrough raceway,U.S. - California,7.49
-7,Sturgeon,BEST CHOICE,"Sturgeon, White                         Caviar, Chozame, Sturgeon",Tanks,U.S. - Idaho,7.49
-8,Sturgeon,BEST CHOICE,"Sturgeon, White                         Caviar, Chozame, Sturgeon",Outdoor flowthrough raceway,U.S. - Idaho,7.49
-9,Sturgeon,BEST CHOICE,"Sturgeon, White                         Caviar, Chozame, Sturgeon",Tanks,U.S. - California,7.49
-10,Sturgeon,BEST CHOICE,"Sturgeon, White                         Caviar, Chozame, Sturgeon",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-11,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, Atlantic                         Caviar, Chozame, Sturgeon",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-12,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, Beluga                         Caviar, Chozame, Sturgeon",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-13,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, Russian                         Caviar, Chozame, Sturgeon",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-15,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, Siberian                         Caviar, Chozame, Sturgeon",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-16,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, Stellate                         Caviar, Chozame, Sturgeon, Sevruga",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-17,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, Sterlet                         Caviar, Chozame, Sturgeon",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-19,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, White                         Caviar, Chozame, Sturgeon",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Tilapia,BEST CHOICE,"Tilapia, Blue                         Izumidai, Saint Peter Fish",Raceways,Peru,6.9
-1,Tilapia,BEST CHOICE,"Tilapia, Mozambique                         Izumidai, Saint Peter Fish",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-2,Tilapia,BEST CHOICE,"Tilapia, Nile                         Izumidai, Saint Peter Fish",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-3,Tilapia,BEST CHOICE,"Tilapia, Nile                         Izumidai, Saint Peter Fish",Ponds,Ecuador,6.93
-4,Tilapia,BEST CHOICE,"Tilapia, Red Nile Hybrid                         Izumidai, Saint Peter Fish",Ponds,Ecuador,6.93
-5,Tilapia,BEST CHOICE,"Tilapia, Red Nile Hybrid                         Izumidai, Saint Peter Fish",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-8,Tilapia,GOOD ALTERNATIVE,"Tilapia, Mozambique                         Izumidai, Saint Peter Fish",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-13,Tilapia,GOOD ALTERNATIVE,"Tilapia, Nile                         Izumidai, Saint Peter Fish",Freshwater net pen,Honduras,6.27
-14,Tilapia,GOOD ALTERNATIVE,"Tilapia, Nile                         Izumidai, Saint Peter Fish",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-17,Tilapia,GOOD ALTERNATIVE,"Tilapia, Red Nile Hybrid                         Izumidai, Saint Peter Fish",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-2,Trout,BEST CHOICE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",Outdoor flowthrough raceway,U.S.,6.72
-3,Trout,BEST CHOICE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",Ponds,U.S.,6.72
-4,Trout,BEST CHOICE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",Freshwater net pen,U.S.,6.71
-5,Trout,BEST CHOICE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-16,Trout,GOOD ALTERNATIVE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",Raceways,Canada,6.3
-18,Trout,GOOD ALTERNATIVE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",Tanks,Canada,6.3
-23,Trout,GOOD ALTERNATIVE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
-0,Turbot,BEST CHOICE,"Turbot                         Hirame, Turbot",Indoor recirculating tank (with wastewater treatment),Worldwide,6.91
-2,Turbot,GOOD ALTERNATIVE,"Turbot                         Hirame, Turbot",Indoor recirculating tank (without wastewater treatment),Worldwide,6.63
+0,Abalone,BEST CHOICE,Abalone Awabi,INDOOR FLOWTHROUGH TANK,Worldwide,6.95
+1,Abalone,BEST CHOICE,Abalone Awabi,ENCLOSED BOTTOM CULTURE,Worldwide,6.95
+2,Abalone,BEST CHOICE,Abalone Awabi,OUTDOOR FLOWTHROUGH TANK,Worldwide,6.95
+3,Abalone,BEST CHOICE,Abalone Awabi,OFF-BOTTOM CULTURE,Worldwide,6.95
+4,Abalone,GOOD ALTERNATIVE,Abalone Awabi,OPEN BOTTOM CULTURE,Worldwide,6.24
+0,Amberjack,BEST CHOICE,"Amberjack, Almaco Jack Amberjack, Buri, Hamachi, Kahala, Hawaiian Kanpachi, Pacific Amberjack, Yellowtail",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+1,Amberjack,BEST CHOICE,"Amberjack, Buri Amberjack, Hamachi, Kanpachi, Japanese Amberjack, Japanese Yellowtail",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+2,Amberjack,BEST CHOICE,"Amberjack, Greater Amberjack, Atlantic Amberjack, Buri, Kanpachi, Yellowtail",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+3,Amberjack,BEST CHOICE,"Amberjack, Yellowtail Amberjack, Buri, Hamachi, Kanpachi",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+4,Amberjack,GOOD ALTERNATIVE,"Amberjack, Almaco Jack Amberjack, Buri, Hamachi, Kahala, Hawaiian Kanpachi, Pacific Amberjack, Yellowtail",MARINE NET PEN,"U.S. - Hawaii, Eastern Central Pacific Ocean",6.78
+6,Amberjack,GOOD ALTERNATIVE,"Amberjack, Almaco Jack Amberjack, Buri, Hamachi, Kahala, Hawaiian Kanpachi, Pacific Amberjack, Yellowtail",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+7,Amberjack,GOOD ALTERNATIVE,"Amberjack, Buri Amberjack, Hamachi, Kanpachi, Japanese Amberjack, Japanese Yellowtail",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+12,Amberjack,GOOD ALTERNATIVE,"Amberjack, Greater Amberjack, Atlantic Amberjack, Buri, Kanpachi, Yellowtail",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+20,Amberjack,GOOD ALTERNATIVE,"Amberjack, Yellowtail Amberjack, Buri, Hamachi, Kanpachi",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Arctic Char,BEST CHOICE,"Arctic Char                         Alpine Char, Alpine Trout, Char, Common Char, Iwana, Sea Trout",RACEWAYS,Iceland,6.78
+1,Arctic Char,BEST CHOICE,"Arctic Char                         Alpine Char, Alpine Trout, Char, Common Char, Iwana, Sea Trout",RACEWAYS,U.S.,6.72
+3,Arctic Char,BEST CHOICE,"Arctic Char                         Alpine Char, Alpine Trout, Char, Common Char, Iwana, Sea Trout",RACEWAYS,Canada,6.72
+5,Arctic Char,BEST CHOICE,"Arctic Char                         Alpine Char, Alpine Trout, Char, Common Char, Iwana, Sea Trout",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+6,Arctic Char,GOOD ALTERNATIVE,"Arctic Char                         Alpine Char, Alpine Trout, Char, Common Char, Iwana, Sea Trout",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Bass,BEST CHOICE,"Bass, Striped                         Greenhead, Linesides, Rockfish, Striper, Suzuki",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+1,Bass,BEST CHOICE,"Bass, Sunshine                         Bass, Hybrid Striped Bass, Hybrid White Bass, Suzuki",TANKS,U.S.,7.17
+2,Bass,BEST CHOICE,"Bass, Sunshine                         Bass, Hybrid Striped Bass, Hybrid White Bass, Suzuki",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+3,Bass,BEST CHOICE,"Bass, Sunshine                         Bass, Hybrid Striped Bass, Hybrid White Bass, Suzuki",PONDS,U.S.,6.9
+4,Bass,GOOD ALTERNATIVE,"Bass, Striped                         Greenhead, Linesides, Rockfish, Striper, Suzuki",MARINE NET PEN,Mexico - Eastern Central Pacific Ocean,6.11
+5,Bass,GOOD ALTERNATIVE,"Bass, Striped                         Greenhead, Linesides, Rockfish, Striper, Suzuki",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+7,Bass,GOOD ALTERNATIVE,"Bass, Sunshine                         Bass, Hybrid Striped Bass, Hybrid White Bass, Suzuki",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Bream,BEST CHOICE,"Bream, Gilthead                         Bream, Giltheaded Seabream, Silver Seabream",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+2,Bream,GOOD ALTERNATIVE,"Bream, Gilthead                         Bream, Giltheaded Seabream, Silver Seabream",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+5,Catfish,BEST CHOICE,"Catfish, Channel                         Catfish",PONDS,U.S.,7.62
+6,Catfish,BEST CHOICE,"Catfish, Channel                         Catfish",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+7,Catfish,BEST CHOICE,"Catfish, Sharptooth                         African Catfish, Sharptooth Clarias Fish",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+8,Catfish,BEST CHOICE,"Catfish, Wels                         Catfish",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+9,Catfish,GOOD ALTERNATIVE,"Catfish, Channel                         Catfish",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+10,Catfish,GOOD ALTERNATIVE,"Catfish, Sharptooth                         African Catfish, Sharptooth Clarias Fish",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+11,Catfish,GOOD ALTERNATIVE,"Catfish, Wels                         Catfish",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Clams,BEST CHOICE,"Clams                         Blood Clam, Chinese Razor Clam, Frilled Venus Clam, Hard Clam, Japanese Carpet Shell, Japanese Littleneck Clam, Littleneck Clam, Lyrate Hard Clam, Northern Quahog Clam, Razor Clam, Softshell Clam, Venus Clam",BOTTOM CULTURE,Worldwide,7.01
+1,Clams,BEST CHOICE,"Clams                         Blood Clam, Chinese Razor Clam, Frilled Venus Clam, Hard Clam, Japanese Carpet Shell, Japanese Littleneck Clam, Littleneck Clam, Lyrate Hard Clam, Northern Quahog Clam, Razor Clam, Softshell Clam, Venus Clam",OFF-BOTTOM CULTURE,Worldwide,7.01
+15,Clams,GOOD ALTERNATIVE,"Clams, Pacific Geoduck                         Elephant-trunk Clam, Giant Clam, King Clam, Mirugai",BOTTOM CULTURE,"U.S. - Washington, Northeast Pacific Ocean",6.29
+16,Clams,GOOD ALTERNATIVE,"Clams, Pacific Geoduck                         Elephant-trunk Clam, Giant Clam, King Clam, Mirugai",BOTTOM CULTURE,"Canada - British Columbia, Northeast Pacific Ocean",6.34
+3,Cobia,BEST CHOICE,"Cobia                         Cobia, Crabeater, Cubby, Lemonfish, Ling, Sergeantfish, Yew",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+6,Cobia,GOOD ALTERNATIVE,"Cobia                         Cobia, Crabeater, Cubby, Lemonfish, Ling, Sergeantfish, Yew",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Cockles,BEST CHOICE,"Cockles Basket Cockle, Blood Cockle, Cockle, Common Cockle, New Zealand Cockle",OFF-BOTTOM CULTURE,Worldwide,7.01
+1,Cockles,BEST CHOICE,"Cockles Basket Cockle, Blood Cockle, Cockle, Common Cockle, New Zealand Cockle",BOTTOM CULTURE,Worldwide,7.01
+0,Cod,BEST CHOICE,"Cod, Atlantic                         Cod, Codfish, Scrod, True Cod, Whitefish",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+9,Cod,GOOD ALTERNATIVE,"Cod, Atlantic                         Cod, Codfish, Scrod, True Cod, Whitefish",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Crayfish,BEST CHOICE,"Crayfish, Red Swamp                         Crawdads, Crawfish, Crayfish, Louisiana Crawfish, Mudbugs",PONDS,U.S.,7.53
+0,Drum,BEST CHOICE,"Drum, Red                         Channel Bass, Drum, Redfish, Spot Tail Bass",PONDS,U.S.,6.68
+0,Halibut,BEST CHOICE,"Halibut, Atlantic                         Halibut, Hirame",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+1,Halibut,GOOD ALTERNATIVE,"Halibut, Atlantic                         Halibut, Hirame",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Meagre,BEST CHOICE,"Meagre                         Croaker, Shadefish",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+1,Meagre,GOOD ALTERNATIVE,"Meagre                         Croaker, Shadefish",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Mussels,BEST CHOICE,"Mussels                         Blue Mussel, Chilean Mussel, Green Mussel, Mediterranean Mussel, New Zealand Green Mussel, Perna Mussel",OFF-BOTTOM CULTURE,Worldwide,6.68
+1,Mussels,BEST CHOICE,"Mussels                         Blue Mussel, Chilean Mussel, Green Mussel, Mediterranean Mussel, New Zealand Green Mussel, Perna Mussel",BOTTOM CULTURE,Worldwide,6.68
+0,Oysters,BEST CHOICE,"Oysters Akoya Pearl Oyster, American Cupped Oyster, Australian Mud Oyster, Eastern Oyster, Edible Oyster, European Flat Oyster, Hong Kong Oyster, Iwagki Oyster, Japanese Flat Oyster, Kumamoto Oyster, Olympia Oyster, Pacific Cupped Oyster, Pacific Oyster, Portuguese Oyster, Suminoe Oyster, Sydney Rock Oyster, Zhe Oyster",BOTTOM CULTURE,Worldwide,6.69
+1,Oysters,BEST CHOICE,"Oysters Akoya Pearl Oyster, American Cupped Oyster, Australian Mud Oyster, Eastern Oyster, Edible Oyster, European Flat Oyster, Hong Kong Oyster, Iwagki Oyster, Japanese Flat Oyster, Kumamoto Oyster, Olympia Oyster, Pacific Cupped Oyster, Pacific Oyster, Portuguese Oyster, Suminoe Oyster, Sydney Rock Oyster, Zhe Oyster",OFF-BOTTOM CULTURE,Worldwide,6.69
+0,Perch,BEST CHOICE,"Perch, Giant                         Asian Sea Bass, Australian Sea Bass, Barra, Barramundi Perch, Barramundi, Palmer, Silver Barramundi, White Sea Bass",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+1,Perch,BEST CHOICE,"Perch, Giant                         Asian Sea Bass, Australian Sea Bass, Barra, Barramundi Perch, Barramundi, Palmer, Silver Barramundi, White Sea Bass",MARINE NET PEN,Viet Nam,6.69
+3,Perch,BEST CHOICE,"Perch, Yellow                         American Perch, Common Perch, Lake Perch, Ned, Raccoon Perch, Redfin Perch, Redfin, Ringed Perch, River Perch, Striped Perch, Yellow Ned",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+7,Perch,GOOD ALTERNATIVE,"Perch, Giant                         Asian Sea Bass, Australian Sea Bass, Barra, Barramundi Perch, Barramundi, Palmer, Silver Barramundi, White Sea Bass",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+16,Perch,GOOD ALTERNATIVE,"Perch, Yellow American Perch, Common Perch, Lake Perch, Ned, Raccoon Perch, Redfin Perch, Redfin, Ringed Perch, River Perch, Striped Perch, Yellow Ned",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+6,Pompano,BEST CHOICE,"Pompano, Florida                         Koban Aji, Pompano",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+8,Pompano,BEST CHOICE,"Pompano, Snubnose                         Koban Aji, Pompano",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+9,Pompano,GOOD ALTERNATIVE,"Pompano, Florida                         Koban Aji, Pompano",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+10,Pompano,GOOD ALTERNATIVE,"Pompano, Snubnose                         Koban Aji, Pompano",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+9,Sablefish,BEST CHOICE,"Sablefish                         Alaska Cod, Black Cod, Butterfish, Gindara, Sablefish",MARINE NET PEN,"Canada - British Columbia, Northeast Pacific Ocean",6.79
+0,Salmon,BEST CHOICE,"Salmon, Atlantic Sake, Salmon",MARINE NET PEN,"Norway - Nordland, Skjerstad Fjord",7.17
+1,Salmon,BEST CHOICE,"Salmon, Atlantic Sake, Salmon",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+2,Salmon,BEST CHOICE,"Salmon, Chinook King Salmon, Quinnat Salmon, Sake, Spring Salmon, Tyee Salmon",MARINE NET PEN,New Zealand - Southwest Pacific Ocean,6.78
+3,Salmon,BEST CHOICE,"Salmon, Chinook King Salmon, Quinnat Salmon, Sake, Spring Salmon, Tyee Salmon",FRESHWATER NET PEN,New Zealand - Oceania - Inland waters,7.87
+4,Salmon,BEST CHOICE,"Salmon, Chinook King Salmon, Quinnat Salmon, Sake, Spring Salmon, Tyee Salmon",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+5,Salmon,BEST CHOICE,"Salmon, Coho Coho, Medium Red Salmon, Sake, Silver Salmon",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+8,Salmon,BEST CHOICE,"Salmon, Sockeye Blueback salmon, Red salmon, Sake, Sockeye",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+13,Salmon,GOOD ALTERNATIVE,"Salmon, Atlantic Sake, Salmon",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+27,Salmon,GOOD ALTERNATIVE,"Salmon, Chinook King Salmon, Quinnat Salmon, Sake, Spring Salmon, Tyee Salmon",MARINE NET PEN,"Canada - British Columbia, Northeast Pacific Ocean",6.52
+28,Salmon,GOOD ALTERNATIVE,"Salmon, Chinook King Salmon, Quinnat Salmon, Sake, Spring Salmon, Tyee Salmon",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+44,Salmon,GOOD ALTERNATIVE,"Salmon, Coho Coho, Medium Red Salmon, Sake, Silver Salmon",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+54,Salmon,GOOD ALTERNATIVE,"Salmon, Sockeye Blueback salmon, Red salmon, Sake, Sockeye",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Scallop,BEST CHOICE,"Scallop, Atlantic Calico                         Calico Scallop, Hotate, Scallop",OFF-BOTTOM CULTURE,Worldwide,8.86
+1,Scallop,BEST CHOICE,"Scallop, Atlantic Calico                         Calico Scallop, Hotate, Scallop",BOTTOM CULTURE,Worldwide,8.86
+2,Scallop,BEST CHOICE,"Scallop, Bay                         Hotate, Scallop",OFF-BOTTOM CULTURE,Worldwide,8.86
+3,Scallop,BEST CHOICE,"Scallop, Bay                         Hotate, Scallop",BOTTOM CULTURE,Worldwide,8.86
+4,Scallop,BEST CHOICE,"Scallop, Common Japanese                         Hotate, Scallop",OFF-BOTTOM CULTURE,Worldwide,8.86
+5,Scallop,BEST CHOICE,"Scallop, Common Japanese                         Hotate, Scallop",BOTTOM CULTURE,Worldwide,8.86
+6,Scallop,BEST CHOICE,"Scallop, Iceland                         Hotate, Scallop",OFF-BOTTOM CULTURE,Worldwide,8.86
+7,Scallop,BEST CHOICE,"Scallop, Iceland                         Hotate, Scallop",BOTTOM CULTURE,Worldwide,8.86
+8,Scallop,BEST CHOICE,"Scallop, Lined                         Hotate, Scallop",OFF-BOTTOM CULTURE,Worldwide,8.86
+9,Scallop,BEST CHOICE,"Scallop, Lined                         Hotate, Scallop",BOTTOM CULTURE,Worldwide,8.86
+10,Scallop,BEST CHOICE,"Scallop, Nucleus                         Hotate, Scallop",BOTTOM CULTURE,Worldwide,8.86
+11,Scallop,BEST CHOICE,"Scallop, Nucleus                         Hotate, Scallop",OFF-BOTTOM CULTURE,Worldwide,8.86
+12,Scallop,BEST CHOICE,"Scallop, Pacific Calico                         Calico Scallop, Catarina Scallop, Hotate, Mexican Bay Scallop, Scallop",OFF-BOTTOM CULTURE,Worldwide,8.86
+13,Scallop,BEST CHOICE,"Scallop, Pacific Calico                         Calico Scallop, Catarina Scallop, Hotate, Mexican Bay Scallop, Scallop",BOTTOM CULTURE,Worldwide,8.86
+14,Scallop,BEST CHOICE,"Scallop, Peruvian                         Chilean Scallop, Fan Scallop, Hotate, Peruvian Bay Scallop, Scallop, Sea Scallop",BOTTOM CULTURE,Worldwide,8.86
+15,Scallop,BEST CHOICE,"Scallop, Peruvian                         Chilean Scallop, Fan Scallop, Hotate, Peruvian Bay Scallop, Scallop, Sea Scallop",OFF-BOTTOM CULTURE,Worldwide,8.86
+16,Scallop,BEST CHOICE,"Scallop, Queen                         Hotate, Scallop",OFF-BOTTOM CULTURE,Worldwide,8.86
+17,Scallop,BEST CHOICE,"Scallop, Queen                         Hotate, Scallop",BOTTOM CULTURE,Worldwide,8.86
+18,Scallop,BEST CHOICE,"Scallop, Reddish                         Hotate, Scallop",OFF-BOTTOM CULTURE,Worldwide,8.86
+19,Scallop,BEST CHOICE,"Scallop, Reddish                         Hotate, Scallop",BOTTOM CULTURE,Worldwide,8.86
+20,Scallop,BEST CHOICE,"Scallop, Sea                         American Sea Scallop, Atlantic Sea Scallop, Digby Scallop, Hotate, Scallop",OFF-BOTTOM CULTURE,Worldwide,8.86
+21,Scallop,BEST CHOICE,"Scallop, Sea                         American Sea Scallop, Atlantic Sea Scallop, Digby Scallop, Hotate, Scallop",BOTTOM CULTURE,Worldwide,8.86
+22,Scallop,BEST CHOICE,"Scallop, Spiny                         Hotate, Scallop",BOTTOM CULTURE,Worldwide,8.86
+23,Scallop,BEST CHOICE,"Scallop, Spiny                         Hotate, Scallop",OFF-BOTTOM CULTURE,Worldwide,8.86
+24,Scallop,BEST CHOICE,"Scallop, Weathervane                         Alaska Scallop, Hotate, Scallop",OFF-BOTTOM CULTURE,Worldwide,8.86
+25,Scallop,BEST CHOICE,"Scallop, Weathervane                         Alaska Scallop, Hotate, Scallop",BOTTOM CULTURE,Worldwide,8.86
+0,Seabass,BEST CHOICE,"Seabass, Black                         Atlantic Seabass, Black Perch, Chub, Rock Bass, Sea Bass, Suzuki, Tallywag",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+1,Seabass,BEST CHOICE,"Seabass, European                         Branzini, Branzino, Loup de mer, Mediterranean Seabass, Suzuki",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+2,Seabass,GOOD ALTERNATIVE,"Seabass, Black                         Atlantic Seabass, Black Perch, Chub, Rock Bass, Sea Bass, Suzuki, Tallywag",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+7,Seabass,GOOD ALTERNATIVE,"Seabass, European                         Branzini, Branzino, Loup de mer, Mediterranean Seabass, Suzuki",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Seaweed,BEST CHOICE,"Seaweed Arame, Asian Kelp, Hijiki, Horsetail, Ito-wakame, Japanese Kelp, Kelp, Kizami-wakame, Kombu, Nambu wakame, Nori, Ogonori, Sugar Kelp, Wakame, Winged Kelp",OFF-BOTTOM CULTURE,Worldwide,7.93
+0,Shrimp,BEST CHOICE,"Shrimp, Giant Freshwater Prawn Ebi, Freshwater prawn, Freshwater shrimp, Giant Malaysian prawn, Giant river prawn, Scampi",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+1,Shrimp,BEST CHOICE,"Shrimp, Giant Tiger Prawn Asian Tiger Shrimp, Black Tiger Prawn/Shrimp, Ebi, Shrimp, Tiger Prawn/Shrimp",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+3,Shrimp,BEST CHOICE,"Shrimp, Whiteleg Ebi, Pacific White Shrimp, Pacific Whiteleg Shrimp, Shrimp, Western White Shrimp, White Shrimp",PONDS,U.S.,7.01
+4,Shrimp,BEST CHOICE,"Shrimp, Whiteleg Ebi, Pacific White Shrimp, Pacific Whiteleg Shrimp, Shrimp, Western White Shrimp, White Shrimp",INDOOR FLOWTHROUGH RACEWAY,U.S.,7.01
+5,Shrimp,BEST CHOICE,"Shrimp, Whiteleg Ebi, Pacific White Shrimp, Pacific Whiteleg Shrimp, Shrimp, Western White Shrimp, White Shrimp",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+20,Shrimp,GOOD ALTERNATIVE,"Shrimp, Giant Freshwater Prawn Ebi, Freshwater prawn, Freshwater shrimp, Giant Malaysian prawn, Giant river prawn, Scampi",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+21,Shrimp,GOOD ALTERNATIVE,"Shrimp, Giant Tiger Prawn Asian Tiger Shrimp, Black Tiger Prawn/Shrimp, Ebi, Shrimp, Tiger Prawn/Shrimp",PONDS,Myanmar,7.73
+22,Shrimp,GOOD ALTERNATIVE,"Shrimp, Giant Tiger Prawn Asian Tiger Shrimp, Black Tiger Prawn/Shrimp, Ebi, Shrimp, Tiger Prawn/Shrimp",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+46,Shrimp,GOOD ALTERNATIVE,"Shrimp, Whiteleg Ebi, Pacific White Shrimp, Pacific Whiteleg Shrimp, Shrimp, Western White Shrimp, White Shrimp",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Sole,BEST CHOICE,"Sole, Butter                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+2,Sole,BEST CHOICE,"Sole, Dover                         Hirame, Slime Sole, Slippery Sole, Sole",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+6,Sole,BEST CHOICE,"Sole, English                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+7,Sole,BEST CHOICE,"Sole, European Dover                         Common Sole, Genuine Dover Sole, Hirame, Sole",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+9,Sole,BEST CHOICE,"Sole, Northern Rock                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+11,Sole,BEST CHOICE,"Sole, Petrale                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+13,Sole,BEST CHOICE,"Sole, Rex                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+14,Sole,BEST CHOICE,"Sole, Southern Rock                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+15,Sole,BEST CHOICE,"Sole, Yellowfin                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+16,Sole,GOOD ALTERNATIVE,"Sole, Butter                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+18,Sole,GOOD ALTERNATIVE,"Sole, Dover                         Hirame, Slime Sole, Slippery Sole, Sole",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+20,Sole,GOOD ALTERNATIVE,"Sole, English                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+21,Sole,GOOD ALTERNATIVE,"Sole, European Dover                         Common Sole, Genuine Dover Sole, Hirame, Sole",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+22,Sole,GOOD ALTERNATIVE,"Sole, Northern Rock                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+25,Sole,GOOD ALTERNATIVE,"Sole, Petrale                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+27,Sole,GOOD ALTERNATIVE,"Sole, Rex                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+30,Sole,GOOD ALTERNATIVE,"Sole, Southern Rock                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+31,Sole,GOOD ALTERNATIVE,"Sole, Yellowfin                         Flounder, Hirame, Sole",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Sturgeon,BEST CHOICE,"Sturgeon, Atlantic                         Caviar, Chozame, Sturgeon",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+1,Sturgeon,BEST CHOICE,"Sturgeon, Beluga                         Caviar, Chozame, Sturgeon",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+2,Sturgeon,BEST CHOICE,"Sturgeon, Russian                         Caviar, Chozame, Sturgeon",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+3,Sturgeon,BEST CHOICE,"Sturgeon, Siberian                         Caviar, Chozame, Sturgeon",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+4,Sturgeon,BEST CHOICE,"Sturgeon, Stellate                         Caviar, Chozame, Sturgeon, Sevruga",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+5,Sturgeon,BEST CHOICE,"Sturgeon, Sterlet                         Caviar, Chozame, Sturgeon",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+6,Sturgeon,BEST CHOICE,"Sturgeon, White                         Caviar, Chozame, Sturgeon",OUTDOOR FLOWTHROUGH RACEWAY,U.S. - California,7.49
+7,Sturgeon,BEST CHOICE,"Sturgeon, White                         Caviar, Chozame, Sturgeon",TANKS,U.S. - Idaho,7.49
+8,Sturgeon,BEST CHOICE,"Sturgeon, White                         Caviar, Chozame, Sturgeon",OUTDOOR FLOWTHROUGH RACEWAY,U.S. - Idaho,7.49
+9,Sturgeon,BEST CHOICE,"Sturgeon, White                         Caviar, Chozame, Sturgeon",TANKS,U.S. - California,7.49
+10,Sturgeon,BEST CHOICE,"Sturgeon, White                         Caviar, Chozame, Sturgeon",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+11,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, Atlantic                         Caviar, Chozame, Sturgeon",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+12,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, Beluga                         Caviar, Chozame, Sturgeon",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+13,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, Russian                         Caviar, Chozame, Sturgeon",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+15,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, Siberian                         Caviar, Chozame, Sturgeon",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+16,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, Stellate                         Caviar, Chozame, Sturgeon, Sevruga",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+17,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, Sterlet                         Caviar, Chozame, Sturgeon",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+19,Sturgeon,GOOD ALTERNATIVE,"Sturgeon, White                         Caviar, Chozame, Sturgeon",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Tilapia,BEST CHOICE,"Tilapia, Blue                         Izumidai, Saint Peter Fish",RACEWAYS,Peru,6.9
+1,Tilapia,BEST CHOICE,"Tilapia, Mozambique                         Izumidai, Saint Peter Fish",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+2,Tilapia,BEST CHOICE,"Tilapia, Nile                         Izumidai, Saint Peter Fish",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+3,Tilapia,BEST CHOICE,"Tilapia, Nile                         Izumidai, Saint Peter Fish",PONDS,Ecuador,6.93
+4,Tilapia,BEST CHOICE,"Tilapia, Red Nile Hybrid                         Izumidai, Saint Peter Fish",PONDS,Ecuador,6.93
+5,Tilapia,BEST CHOICE,"Tilapia, Red Nile Hybrid                         Izumidai, Saint Peter Fish",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+8,Tilapia,GOOD ALTERNATIVE,"Tilapia, Mozambique                         Izumidai, Saint Peter Fish",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+13,Tilapia,GOOD ALTERNATIVE,"Tilapia, Nile                         Izumidai, Saint Peter Fish",FRESHWATER NET PEN,Honduras,6.27
+14,Tilapia,GOOD ALTERNATIVE,"Tilapia, Nile                         Izumidai, Saint Peter Fish",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+17,Tilapia,GOOD ALTERNATIVE,"Tilapia, Red Nile Hybrid                         Izumidai, Saint Peter Fish",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+2,Trout,BEST CHOICE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",OUTDOOR FLOWTHROUGH RACEWAY,U.S.,6.72
+3,Trout,BEST CHOICE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",PONDS,U.S.,6.72
+4,Trout,BEST CHOICE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",FRESHWATER NET PEN,U.S.,6.71
+5,Trout,BEST CHOICE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+16,Trout,GOOD ALTERNATIVE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",RACEWAYS,Canada,6.3
+18,Trout,GOOD ALTERNATIVE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",TANKS,Canada,6.3
+23,Trout,GOOD ALTERNATIVE,"Trout, Rainbow Steelhead Trout, Steelhead, Trout",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
+0,Turbot,BEST CHOICE,"Turbot                         Hirame, Turbot",INDOOR RECIRCULATING TANK (WITH WASTEWATER TREATMENT),Worldwide,6.91
+2,Turbot,GOOD ALTERNATIVE,"Turbot                         Hirame, Turbot",INDOOR RECIRCULATING TANK (WITHOUT WASTEWATER TREATMENT),Worldwide,6.63
